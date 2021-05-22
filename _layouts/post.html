@@ -11,7 +11,7 @@ post_class: post-template
     <div class="row">
 
         <!-- Post Share -->
-        <div class="col-md-2 pl-0">
+        <div class="col-md-2 pl-0" style="direction: ltr;">
             {% include share.html %}
         </div>
 
@@ -61,7 +61,7 @@ post_class: post-template
             <!-- End Featured Image -->
 
             <!-- Post Content -->
-            <div class="article-post">
+            <div class="article-post" style="text-align:right;">
                 <!-- Toc if any -->
                 {% if page.toc %}
                     {% if page.beforetoc %}
@@ -94,7 +94,7 @@ post_class: post-template
             </p>
 
             <!-- Post Categories -->
-            <div class="after-post-cats">
+            <div class="after-post-cats" style="text-align:right;">
                 <ul class="tags mb-4">
                     {% assign sortedCategories = page.categories | sort %}
                     {% for category in sortedCategories %}
@@ -107,7 +107,7 @@ post_class: post-template
             <!-- End Categories -->
 
             <!-- Post Tags -->
-            <div class="after-post-tags">
+            <div class="after-post-tags" style="text-align:right;">
                 <ul class="tags">
                     {% assign sortedTags = page.tags | sort %}
                     {% for tag in sortedTags %}
