@@ -51,6 +51,26 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: true
+      
+comments:
+   provider: "giscus"
+   
+giscus:
+  repo: "MHKarami97/travel"
+  repo-id: "MDEwOlJlcG9zaXRvcnkzNTE1MzIwODM="
+  category: "General"
+  category-id: "DIC_kwDOFPP0M84B-Ro6"
+  mapping: "pathname"
+  reaction-enabled: "1"
+  theme: "light"
+  crossorigin: "anonymous"  
+  
+google_analytics: "G-DZM25ZLKRP"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-DZM25ZLKRP"
+    anonymize_ip: false # default  
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 #adsense: "disabled"
