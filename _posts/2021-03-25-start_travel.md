@@ -3,7 +3,7 @@ layout: post
 title:  "شروع سفر"
 author: mhk
 categories: [ start ]
-image: assets/images/16.jpg
+image: assets/img/start.jpg
 ---
 
 سفرنامه در این تاریخ شروع به کار کرد
