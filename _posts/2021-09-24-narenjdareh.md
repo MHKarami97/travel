@@ -4,7 +4,7 @@ title:  "تنگه نارنج دره و جنگل ارواح نوشهر"
 author: mhk
 categories: [Nature]
 tags: [nature, narenjdareh, mazandaran, noshahr]
-image: assets/img/10-narenjdareh/01.jpeg
+image: assets/img/10-narenjdareh/22.jpeg
 description: "تنگه نارنج دره و جنگل ارواح نوشهر"
 featured: true
 hidden: true
