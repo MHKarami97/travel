@@ -265,10 +265,203 @@ rating: 5
   <img src="/assets/img/11-khalkhal_asalem/88.jpg" alt="mhkarami97" width="600" />
 </p>
 
-در زمان رسیدن ما به این نقطه آب و هوا کمی تغییر کرد و دوباره محل را مه فرا گرفت و باران نیز کمی شروع به بارش کرد
+در زمان رسیدن ما به این نقطه آب و هوا کمی تغییر کرد و دوباره محل را مه فرا گرفت و باران نیز کمی شروع به بارش کرد که با توجه به داشتن پانچو ما به مسیر ادامه دادیم.  
 
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/51.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/52.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/53.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/54.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/56.jpg" alt="mhkarami97" width="600" />
+</p>
+
+در نزدیکی های ماهیسرا قهوه خانه ای وجود داشت که فقط برای جمع شدن تمام افراد کمی در آن صبر کردیم و سپس به سمت محل کمپ که بعد از ماهیسرا و دوراه آبشار بود حرکت کردیم.  
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/57.jpg" alt="mhkarami97" width="600" />
+</p>
+
+با توجه به آب و هوا برای کمپ شب دوم نیز دو کلبه اجاره کردیم، البته وضعیت کلبه ها نسبت به شب اول بهتر بود و دیگر نیاز به زدن چادر در آن نبود.  
+همچنین در داخل هردو بخاری چوبی، گاز برای پخت و پز و ظروف برای پخت غذا وجود داشت.  
+هرچند وضعیت هردو کلبه یکسان نبود و فقط نام یکی از آنها را می‌توان کلبه گذاشت و کلبه دیگر که من نیز در آن بودم، با چوب و نایلون ساخته شده بود.  
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/58.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/59.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/60.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/61.jpg" alt="mhkarami97" width="600" />
+</p>
+
+## روز سوم پیمایش
+برای پیمایش در روز سوم نیز تصمیم گرفتیم کوله ها را با نیسان حمل کنیم، برای این کار با `مازیار` صحبت کردیم که مسئول کلبه ها او به همراه پسرش بود که خودشان در آنجا یک مغازه نیز داشتند.  
+
+`شماره تماس : 0911858870`
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/62.jpg" alt="mhkarami97" width="600" />
+</p>
+
+از این نقطه نیز مسیر حرکت ماشین و پیمایش جدا می‌شود. بعد از رسیدن به دو راه ، مسیر راست که دارای پل آهنی است مسیر ماشین رو و مسیر سمت چپ مسیر پیمایش است، البته دقت کنید که در مسیر سمت چپ از کنار رودخانه حرکت کنید و مسیر سمت چپ آن را طی نکنید، این مسیر در انتها به یک روستا با چند خانه می‌رسد که ما به اشتباه آن را رفتیم و مجبور شدیم از همان روستا، مسیر با شیب زیاد از کنار رودخانه کوچکی که به رودخانه اصلی می‌رسید را پایین بیاییم تا به مسیر اصلی برسیم.  
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/63.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/64.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/65.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/66.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/67.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/68.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/69.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/70.jpg" alt="mhkarami97" width="600" />
+</p>
+
+در طول مسیر دو پرتگاه وجود داشت که طبق گفته گروهی که آن را مشاهده کرده بود، مسیر آن ریزش کرده بود. پس مجبور شدیم آن را از مسیر سمت چپ که داخل جنگل حرکت می‌کرد دور بزنیم.  
+مسیری که برای دور زدن طی کردیم، یک مسیر فرعی بود که در نقشه نیز ثبت نشده بود، هرچند ابتدای آن بسیار زیبا بود اما با رسیدن به بالای نقاط پرتگاه مسیر بسیار سخت شد و با سختی زیاد توانستیم آن را طی کنیم که به همین دلیل نتوانستم خیلی از آن عکس بیاندازم.  
+فقط به همین نکته اکتفا کنید که مسیر شیب زیادی داشت که نم نم باران نیز آن را لیز کرده بود، پس طی کردن آن با کوله اصلا امکان پذیر نیست.  
+همچنین احتمال گم شدن در آن به دلیل فرعی بودن مسیر بیشتر است.  
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/71.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/72.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/73.jpg" alt="mhkarami97" width="600" />
+</p>
+
+بعد از طی کردن دو پرتگاه، مسیر فرعی را به سمت پایین حرکت کردیم تا به مسیر اصلی برسیم و با سختی زیاد توانستیم به آن برسیم و سپس در آن به مسیر ادامه دادیم.  
+مسیر از این نقطه به بعد از کنار رودخانه طی می‌شد و دارای طبیعتی بسیار زیبا بود.  
+همچنین در طول آن دو آبشار کوچک نیز وجود داشت که برای رد شدن از کنار یکی از آنها نیاز بود از روی دو چوب عبور کنیم.  
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/74.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/75.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/76.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/77.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/78.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/79.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/80.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/81.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/82.jpg" alt="mhkarami97" width="600" />
+</p>
+
+آبشار گفته شده که باید بر روی دو چوب حرکت کنید:  
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/83.jpg" alt="mhkarami97" width="600" />
+</p>
+
+آبشار بالا نشانه رسیدن به اواخر مسیر است که بعد از کمی به یک پل سیمانی بر روی رودخانه می‌رسید که باید از روی آن به سمت راست رودخانه بروید.  
+تقریبا 50 متر بعد نشانه های رسیدن به روستای انتها مسیر با اسم `لاکه تاشون` نمایان می‌شود که اولین سازه آن نیز  پرورش ماهی است.  
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/84.jpg" alt="mhkarami97" width="600" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/85.jpg" alt="mhkarami97" width="600" />
+</p>
+
+راننده ای که کوله های ما را حمل کرده بود، آنها را به یک غذاخوری در مسیر آسفالته اسالم به خلخال داده بود که برای رسیدن به آن، بعد از پایان روستا و رسیدن به جاده، تقریبا 15 دقیقه به سمت راست یا همان خلخال حرکت کردیم تا به آن برسیم.  
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/86.jpg" alt="mhkarami97" width="600" />
+</p>
+
+به علت خستگی و گشنگی زیاد در همان غذاخوری استراحت کرده و غذا صرف کردیم تا صبر کردیم تا اتوبوس برای سوار کردن ما و بردنمان به تهران برسد.  
+
+<p align="center">
+  <img src="/assets/img/11-khalkhal_asalem/87.jpg" alt="mhkarami97" width="600" />
+</p>
+
+به علت رفتن از مسیر فرعی، مقدار پیمایش ما در روز آخر کمی زیاد شد و بعد از غروب آفتاب و تقریبا ساعت 6:30 به غذاخوری گفته شده رسیدیم، تا ساعت 11 نیز استراحت کردیم و منتظر اتوبوس ماندیم و بعد از سوار شدن تقریبا ساعت 5:30 صبح در پل فردیس بودیم.  
+
+## نکات مسیر
+در تمام مسیر پیمایش موبایل آنتن نمی‌دهد و در ابتدا و انتهای مسیر نیز فقط همراه اول خط می‌دهد.  
+
+در صورت ابری بودن مسیر، حتما پانچو داشته باشید.  
+
+لباس گرم و همچنین لباس خشک اضافه با خود داشته باشید.  
+
+کفش کوهنوردی بسیار مهم است و حتما باید کفش مناسب کوه و پیمایش در مسیر گل داشته باشید و از عدم نفوذ آب به داخل آن مطمئن باشید.  
+
+ما در هر روز بجای سه وعده، دو وعده غذا می‌خوریدم، به این صورت که ناهار و صبحانه را با هم خورده و در طول مسیر پیمایش از مواد قندی و خوراکی کوچک استفاده می‌کردیم و بعد از رسیدن به محل کمپ که هر روز تقریبا ساعت 5 بود، شام را صرف می‌کردیم.  پس خیلی کوله خود را سنگین نکنید.  
+
+پول نقد حتما داشته باشید.  
+
+در طول مسیر از روز دوم به بعد چند غذاخوری کوچک وجود دارد که می‌توانید از آنها نیز استفاده کنید.  
 
 ---
+
+روز اول پیمایش:  
 
 <p align="center">
 <video width="240" height="420" controls>
@@ -276,11 +469,44 @@ rating: 5
 </video>
 </p>
 
-[جزئیات پیمایش](/assets/img/11-khalkhal_asalem/38.jpg)  
+[جزئیات پیمایش](/assets/img/11-khalkhal_asalem/89.jpg)  
 
 ---
 
-[فایل Track مسیر](/assets/img/11-khalkhal_asalem/38.jpg)  
+روز دوم پیمایش:  
+
+<p align="center">
+<video width="240" height="420" controls>
+  <source src="/assets/img/11-khalkhal_asalem/02.mp4" type="video/mp4">
+</video>
+</p>
+
+[جزئیات پیمایش](/assets/img/11-khalkhal_asalem/90.jpg)  
+
+<p align="center">
+<video width="240" height="420" controls>
+  <source src="/assets/img/11-khalkhal_asalem/03.mp4" type="video/mp4">
+</video>
+</p>
+
+[جزئیات پیمایش](/assets/img/11-khalkhal_asalem/91.jpg)  
+
+---
+
+روز سوم پیمایش:  
+`به علت تمام شدن باتری ساعت هوشمند، کمی از انتهای مسیر Track نشده است`
+
+<p align="center">
+<video width="240" height="420" controls>
+  <source src="/assets/img/11-khalkhal_asalem/04.mp4" type="video/mp4">
+</video>
+</p>
+
+[جزئیات پیمایش](/assets/img/11-khalkhal_asalem/92.jpg)  
+
+---
+
+[فایل Track مسیر](/assets/img/11-khalkhal_asalem/khalkhal_asalem.gpx)  
 
 ---
 
