@@ -53,8 +53,7 @@ kramdown:
     block:
       line_numbers: true
       
-comments:
-   provider: ""
+comments: false
    
 giscus:
   repo: "MHKarami97/travel"
