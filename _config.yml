@@ -54,7 +54,7 @@ kramdown:
       line_numbers: true
       
 comments:
-   provider: "giscus"
+   provider: ""
    
 giscus:
   repo: "MHKarami97/travel"
