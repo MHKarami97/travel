@@ -8,7 +8,7 @@ image: assets/img/22-haft_cheshme/01.jpg
 description: "هفت چشمه"
 featured: true
 hidden: true
-rating: 4
+rating: 3
 ---
 
 ## توضیحات منطقه
