@@ -30,7 +30,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-  - jekyll-responsive-image
     
 # Archives
 jekyll-archives:
@@ -80,12 +79,5 @@ analytics:
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "enabled"
-
-responsive_image:
-  template: _includes/responsive-image.html
-  sizes:
-    - width: 320
-    - width: 480
-    - width: 800
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
