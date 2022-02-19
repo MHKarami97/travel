@@ -76,6 +76,7 @@ DEPENDENCIES
   jekyll-sitemap
   kramdown
   rouge
+  jekyll-responsive-image
 
 BUNDLED WITH
    2.0.1
