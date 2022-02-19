@@ -30,7 +30,14 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-  - jekyll_picture_tag
+  - jekyll-responsive-image
+
+responsive_image:
+  template: _includes/responsive-image.html
+  sizes:
+    - width: 320
+    - width: 480
+    - width: 800
     
 # Archives
 jekyll-archives:

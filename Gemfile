@@ -17,5 +17,5 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     gem 'kramdown'
     gem 'rouge'
-    gem 'jekyll_picture_tag'
+    gem 'jekyll-responsive-image'
 end
