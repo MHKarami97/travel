@@ -17,6 +17,7 @@ rating: 4
 ## پیمایش
 
 
+![mhkarami97](/assets/img/35-bandar_abbas/01.jpg)
 
 <p align="center">
   <img src="/assets/img/35-bandar_abbas/01.jpg" alt="mhkarami97" />
