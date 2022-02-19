@@ -21,51 +21,51 @@ rating: 3
  
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/02.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/19-asbi_square/02.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/03.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/19-asbi_square/03.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/04.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/19-asbi_square/04.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/05.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/19-asbi_square/05.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/06.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/19-asbi_square/06.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/07.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/19-asbi_square/07.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/08.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/19-asbi_square/08.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/09.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/19-asbi_square/09.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/10.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/19-asbi_square/10.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/11.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/19-asbi_square/11.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/12.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/19-asbi_square/12.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/13.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/19-asbi_square/13.jpg" alt="mhkarami97" />
 </p>
 
 ---

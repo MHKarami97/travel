@@ -25,43 +25,43 @@ rating: 3
 این پارک محل خاصی برای انداختن زیرانداز ندارد و اگر قصد این کار و پختن غذا دارید باید به نقاط دیگر بروید. مسیر اصلی این پارک بیشتر برای قدم زدن و بخش های دیگر پارک برای ورزش مناسب است.  
 
 <p align="center">
-  <img src="/assets/img/20-fateh_garden/02.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/20-fateh_garden/02.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/20-fateh_garden/03.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/20-fateh_garden/03.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/20-fateh_garden/04.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/20-fateh_garden/04.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/20-fateh_garden/05.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/20-fateh_garden/05.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/20-fateh_garden/06.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/20-fateh_garden/06.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/20-fateh_garden/07.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/20-fateh_garden/07.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/20-fateh_garden/08.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/20-fateh_garden/08.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/20-fateh_garden/09.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/20-fateh_garden/09.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/20-fateh_garden/10.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/20-fateh_garden/10.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/20-fateh_garden/11.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/20-fateh_garden/11.jpg" alt="mhkarami97" />
 </p>
 
 ---

@@ -25,93 +25,93 @@ rating: 4
 این محل در فصل های مختلف دارای زیبایی خاص همان فصل است و ارزش بازدید چندباره در فصل های مختلف را دارد.  
 
 <p align="center">
-  <img src="/assets/img/15-national_botanical_garden_of_iran/02.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/15-national_botanical_garden_of_iran/02.jpg" alt="mhkarami97" />
 </p>
 
 مبلغ ورودی این محل در آبان 1400 برابر با 15000 هزار تومان بود که اگر آن را از سایت و بصورت آنلاین تهیه می‌کردید 30% تخفیف نیز دریافت می‌کردید.  
 
 <p align="center">
-  <img src="/assets/img/15-national_botanical_garden_of_iran/03.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/15-national_botanical_garden_of_iran/03.jpg" alt="mhkarami97" />
 </p>
 
 در سالهای قبل از کرونا یک راهنما نیز همراه با افراد راهی باغ می‌شد و درختان مختلف و ویژگی های آنها را به افراد توضیح می‌داد که متاسفانه در زمان کرونا این فرد نبود و خودتان باید در باغ گردش می‌کردید.  
 هرچند می‌توانستید کاغذ راهنما گردش را از درب ورودی دریافت کنید که البته خیلی برای شما مفید واقع نمی‌شود.  
 
 <p align="center">
-  <img src="/assets/img/15-national_botanical_garden_of_iran/04.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/15-national_botanical_garden_of_iran/04.jpg" alt="mhkarami97" />
 </p>
 
 برای گشتن کامل این منطقه تقریبا به 4 ساعت پیاده روی نیاز دارید تا بتوانید تمام نقاط آن را مشاهده کنید.  
 به دلیل سنگ فرش بودن محل پیاده روی نیز می‌توانید در روزهای بارانی به این منطقه بروید.  
 
 <p align="center">
-  <img src="/assets/img/15-national_botanical_garden_of_iran/05.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/15-national_botanical_garden_of_iran/05.jpg" alt="mhkarami97" />
 </p>
 
 در هیچ نقطه از باغ بوفه برای خرید تنقلات یا آب سرد کن موجود نیست، پس همراه خود آب آشامیدنی و خوراکی های شیرین همراه داشته باشید تا در طول پیاده روی از آنها استفاده کنید.  
 
 <p align="center">
-  <img src="/assets/img/15-national_botanical_garden_of_iran/06.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/15-national_botanical_garden_of_iran/06.jpg" alt="mhkarami97" />
 </p>
 
 پوشش های گیاهی هر بخش از باغ مختص یک نقطه از جهان و ایران است که هر قسمت از باغ با نقاط دیگر تفاوت دارد. پس گیاهی که در یک بخش مشاهده می‌کنید را نمی‌توانید در نقاط دیگر ببینید.  
 
 <p align="center">
-  <img src="/assets/img/15-national_botanical_garden_of_iran/07.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/15-national_botanical_garden_of_iran/07.jpg" alt="mhkarami97" />
 </p>
 
 عکس های بیشتر از منطقه:  
 
 <p align="center">
-  <img src="/assets/img/15-national_botanical_garden_of_iran/08.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/15-national_botanical_garden_of_iran/08.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/15-national_botanical_garden_of_iran/09.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/15-national_botanical_garden_of_iran/09.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/15-national_botanical_garden_of_iran/10.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/15-national_botanical_garden_of_iran/10.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/15-national_botanical_garden_of_iran/11.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/15-national_botanical_garden_of_iran/11.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/15-national_botanical_garden_of_iran/12.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/15-national_botanical_garden_of_iran/12.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/15-national_botanical_garden_of_iran/13.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/15-national_botanical_garden_of_iran/13.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/15-national_botanical_garden_of_iran/14.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/15-national_botanical_garden_of_iran/14.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/15-national_botanical_garden_of_iran/15.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/15-national_botanical_garden_of_iran/15.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/15-national_botanical_garden_of_iran/16.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/15-national_botanical_garden_of_iran/16.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/15-national_botanical_garden_of_iran/17.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/15-national_botanical_garden_of_iran/17.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/15-national_botanical_garden_of_iran/18.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/15-national_botanical_garden_of_iran/18.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/15-national_botanical_garden_of_iran/19.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/15-national_botanical_garden_of_iran/19.jpg" alt="mhkarami97" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/15-national_botanical_garden_of_iran/20.jpg" alt="mhkarami97" width="600" />
+  <img src="/assets/img/15-national_botanical_garden_of_iran/20.jpg" alt="mhkarami97" />
 </p>
 
 ---
