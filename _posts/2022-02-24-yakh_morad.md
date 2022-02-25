@@ -4,7 +4,7 @@ title:  "غار یخ مراد"
 author: mhk
 categories: [Nature]
 tags: [nature, alborz, yakh_morad]
-image: assets/img/40-yakh_morad/33.jpg
+image: assets/img/40-yakh_morad/18.jpg
 description: "غار یخ مراد"
 featured: true
 hidden: true
