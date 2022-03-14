@@ -219,3 +219,21 @@ rating: 4
 ---
 
 `موقعیت` : [map location](https://www.google.com/maps/place/Bandar+Abbas,+Hormozgan+Province/data=!4m2!3m1!1s0x3ef9d4119f611bfb:0x85c1a67fb6c37545?sa=X&ved=2ahUKEwiblIPnkov2AhURwKQKHQsuB0oQ8gF6BAguEAE)  
+
+`اسکله حقانی` : [map location](https://www.google.com/maps/place/%D8%A7%D8%B3%DA%A9%D9%84%D9%87+%D8%AD%D9%82%D8%A7%D9%86%DB%8C%E2%80%AD/@27.1759501,56.2769786,15.99z/data=!4m13!1m7!3m6!1s0x3ef9d4119f611bfb:0x85c1a67fb6c37545!2sBandar+Abbas,+Hormozgan+Province!3b1!8m2!3d27.1832216!4d56.2666455!3m4!1s0x3ef9d5965a0199eb:0xad24bca00bdfe5d8!8m2!3d27.1733949!4d56.280201)  
+
+`معبد هندوها` : [map location](https://www.google.com/maps/place/Hindu+Temple/@27.1798147,56.2736718,15.99z/data=!4m13!1m7!3m6!1s0x3ef9d4119f611bfb:0x85c1a67fb6c37545!2sBandar+Abbas,+Hormozgan+Province!3b1!8m2!3d27.1832216!4d56.2666455!3m4!1s0x3ef9d43b78147b3b:0xa06275bcaefbb57c!8m2!3d27.180863!4d56.2791806)  
+
+`حمام گله داری` : [map location](https://www.google.com/maps/place/Galedari+historical+Bath+musuem/@27.176826,56.2732019,18.07z/data=!4m13!1m7!3m6!1s0x3ef9d4119f611bfb:0x85c1a67fb6c37545!2sBandar+Abbas,+Hormozgan+Province!3b1!8m2!3d27.1832216!4d56.2666455!3m4!1s0x0:0x85f059b94f35ff62!8m2!3d27.1770775!4d56.2739935)  
+
+`مسجد سنی ها` : [map location](https://www.google.com/maps/place/Sunni+Jame+Mosque/@27.1768165,56.2740863,18.85z/data=!4m13!1m7!3m6!1s0x3ef9d4119f611bfb:0x85c1a67fb6c37545!2sBandar+Abbas,+Hormozgan+Province!3b1!8m2!3d27.1832216!4d56.2666455!3m4!1s0x3ef9d4399760fbb5:0xedbbb41f67101f3!8m2!3d27.1771412!4d56.2750057)  
+
+`مسجد گله داری` : [map location](https://www.google.com/maps/place/Gallehdari+Historical+Mosque/@27.1769907,56.2722553,18.85z/data=!4m13!1m7!3m6!1s0x3ef9d4119f611bfb:0x85c1a67fb6c37545!2sBandar+Abbas,+Hormozgan+Province!3b1!8m2!3d27.1832216!4d56.2666455!3m4!1s0x3ef9d438913e6d99:0xf259ac9eb299ed40!8m2!3d27.1775824!4d56.2717396)  
+
+`رستوران مهربان بانو` : [map location](https://www.google.com/maps/place/%D8%B1%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%86+%D9%85%D9%87%D8%B1%D8%A8%D8%A7%D9%86+%D8%A8%D8%A7%D9%86%D9%88%E2%80%AD/@27.1733982,56.2654871,19.11z/data=!4m13!1m7!3m6!1s0x3ef9d4119f611bfb:0x85c1a67fb6c37545!2sBandar+Abbas,+Hormozgan+Province!3b1!8m2!3d27.1832216!4d56.2666455!3m4!1s0x3ef9d5f121b151eb:0x2549f7e03f99c843!8m2!3d27.1737559!4d56.2656909)  
+
+`بازار قدیم ماهی` : [map location](https://www.google.com/maps/place/27%C2%B010'24.4%22N+56%C2%B015'56.9%22E/@27.1733982,56.2654871,19.11z/data=!4m14!1m7!3m6!1s0x3ef9d4119f611bfb:0x85c1a67fb6c37545!2sBandar+Abbas,+Hormozgan+Province!3b1!8m2!3d27.1832216!4d56.2666455!3m5!1s0x0:0xf9de08db4be4bfb!7e2!8m2!3d27.1734379!4d56.2658116)  
+
+`بازار جدید ماهی` : [map location](https://www.google.com/maps/place/Fishland67/@27.1721065,56.2633202,19z/data=!4m13!1m7!3m6!1s0x3ef9d4119f611bfb:0x85c1a67fb6c37545!2sBandar+Abbas,+Hormozgan+Province!3b1!8m2!3d27.1832216!4d56.2666455!3m4!1s0x3ef9d53d8d57fc9d:0xefbdcae3cd2648c!8m2!3d27.1720372!4d56.2636172)  
+
+`ساحل سورو` : [map location](https://www.google.com/maps/place/Suru+Beach/@27.1666951,56.2501345,16.66z/data=!4m13!1m7!3m6!1s0x3ef9d4119f611bfb:0x85c1a67fb6c37545!2sBandar+Abbas,+Hormozgan+Province!3b1!8m2!3d27.1832216!4d56.2666455!3m4!1s0x3ef9d4570cfcbf89:0x4f33d4788cf70cf6!8m2!3d27.1648208!4d56.2468806)  
