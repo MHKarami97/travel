@@ -15,6 +15,9 @@ rating: 5
 استان کردستان یکی از استان‌‌های ایران به مرکزیت سنندج است که در غرب کشور واقع شده‌است. مساحت این استان ۲۹٬۱۳۷ کیلومتر مربع معادل ۱/۷٪ مساحت کل کشور ایران است. این استان که در دامنه‌ها و دشت‌های پراکنده رشته کوه‌های زاگرس میانی جای گرفته است، از شمال به استان‌های آذربایجان غربی و زنجان، از شرق به همدان و زنجان، از جنوب به کرمانشاه و از غرب به اقلیم کردستان و کشور عراق محدود است. استان کردستان با کشور عراق ۲۰۰ کیلومتر مرز مشترک دارد. استان کردستان برپایه آخرین تقسیمات کشوری در سال ۱۳۹۰ دارای ۱۰شهرستان، ۲۹شهر، ۳۱بخش، ۸۶دهستان و ۱۶۹۷آبادی دارای سکنه و ۱۸۷ آبادی خالی از سکنه بوده‌است. شهرستان‌های این استان عبارتند از: سنندج، سقز، مریوان، بانه، قروه، کامیاران، بیجار، دیواندره، دهگلان و سروآباد. بر پایه سرشماری عمومی نفوس و مسکن سال ۱۳۹۵ استان کردستان  
 
 ## عکس‌ها
+عکس‌های گرفته شده در سفر
+
+### بیستون
 ![mhkarami97](/assets/img/47-kurdistan/001.jpg)  
 
 ![mhkarami97](/assets/img/47-kurdistan/002.jpg)  
@@ -73,12 +76,14 @@ rating: 5
 
 ![mhkarami97](/assets/img/47-kurdistan/029.jpg)  
 
+### مسیر
 ![mhkarami97](/assets/img/47-kurdistan/030.jpg)  
 
 ![mhkarami97](/assets/img/47-kurdistan/031.jpg)  
 
 ![mhkarami97](/assets/img/47-kurdistan/032.jpg)  
 
+### غار قوری قلعه
 ![mhkarami97](/assets/img/47-kurdistan/033.jpg)  
 
 ![mhkarami97](/assets/img/47-kurdistan/034.jpg)  
@@ -101,6 +106,7 @@ rating: 5
 
 ![mhkarami97](/assets/img/47-kurdistan/043.jpg)  
 
+### روستا پاوه
 ![mhkarami97](/assets/img/47-kurdistan/044.jpg)  
 
 ![mhkarami97](/assets/img/47-kurdistan/045.jpg)  
@@ -125,6 +131,7 @@ rating: 5
 
 ![mhkarami97](/assets/img/47-kurdistan/055.jpg)  
 
+### روستا هجیج و چشمه بل
 ![mhkarami97](/assets/img/47-kurdistan/056.jpg)  
 
 ![mhkarami97](/assets/img/47-kurdistan/057.jpg)  
@@ -199,6 +206,7 @@ rating: 5
 
 ![mhkarami97](/assets/img/47-kurdistan/092.jpg)  
 
+### روستا سلین
 ![mhkarami97](/assets/img/47-kurdistan/093.jpg)  
 
 ![mhkarami97](/assets/img/47-kurdistan/094.jpg)  
@@ -327,6 +335,7 @@ rating: 5
 
 ![mhkarami97](/assets/img/47-kurdistan/156.jpg)  
 
+### روستا اورامان تخت
 ![mhkarami97](/assets/img/47-kurdistan/157.jpg)  
 
 ![mhkarami97](/assets/img/47-kurdistan/158.jpg)  
@@ -403,6 +412,7 @@ rating: 5
 
 ![mhkarami97](/assets/img/47-kurdistan/194.jpg)  
 
+### مسیر
 ![mhkarami97](/assets/img/47-kurdistan/195.jpg)  
 
 ![mhkarami97](/assets/img/47-kurdistan/196.jpg)  
@@ -419,6 +429,7 @@ rating: 5
 
 ![mhkarami97](/assets/img/47-kurdistan/202.jpg)  
 
+### روستا سلین
 ![mhkarami97](/assets/img/47-kurdistan/203.jpg)  
 
 ![mhkarami97](/assets/img/47-kurdistan/204.jpg)  
@@ -471,6 +482,7 @@ rating: 5
 
 ![mhkarami97](/assets/img/47-kurdistan/228.jpg)  
 
+### مریوان و دریاچه زریوار
 ![mhkarami97](/assets/img/47-kurdistan/229.jpg)  
 
 ![mhkarami97](/assets/img/47-kurdistan/230.jpg)  
@@ -551,6 +563,7 @@ rating: 5
 
 ![mhkarami97](/assets/img/47-kurdistan/268.jpg)  
 
+### سمت غربی دریاچه زریوار
 ![mhkarami97](/assets/img/47-kurdistan/269.jpg)  
 
 ![mhkarami97](/assets/img/47-kurdistan/270.jpg)  
@@ -585,6 +598,7 @@ rating: 5
 
 ![mhkarami97](/assets/img/47-kurdistan/285.jpg)  
 
+### روستا تفی / روستا لک‌لک‌ها
 ![mhkarami97](/assets/img/47-kurdistan/286.jpg)  
 
 ![mhkarami97](/assets/img/47-kurdistan/287.jpg)  
@@ -627,6 +641,7 @@ rating: 5
 
 ![mhkarami97](/assets/img/47-kurdistan/306.jpg)  
 
+### اطراف روستا تفی و به سمت دریاچه
 ![mhkarami97](/assets/img/47-kurdistan/307.jpg)  
 
 ![mhkarami97](/assets/img/47-kurdistan/308.jpg)  
@@ -723,6 +738,7 @@ rating: 5
 
 ![mhkarami97](/assets/img/47-kurdistan/354.jpg)  
 
+### روستا سردوش
 ![mhkarami97](/assets/img/47-kurdistan/355.jpg)  
 
 ![mhkarami97](/assets/img/47-kurdistan/356.jpg)  
@@ -771,6 +787,7 @@ rating: 5
 
 ![mhkarami97](/assets/img/47-kurdistan/378.jpg)  
 
+### کباب ماهی سمت غربی دریاچه
 ![mhkarami97](/assets/img/47-kurdistan/379.jpg)  
 
 ![mhkarami97](/assets/img/47-kurdistan/380.jpg)  
@@ -795,6 +812,7 @@ rating: 5
 
 ![mhkarami97](/assets/img/47-kurdistan/390.jpg)  
 
+### کمپ در باغ‌های مسیر به سمت روستا سلین
 ![mhkarami97](/assets/img/47-kurdistan/391.jpg)  
 
 ![mhkarami97](/assets/img/47-kurdistan/392.jpg)  
@@ -815,6 +833,7 @@ rating: 5
 
 ![mhkarami97](/assets/img/47-kurdistan/400.jpg)  
 
+### سنندج
 ![mhkarami97](/assets/img/47-kurdistan/401.jpg)  
 
 ![mhkarami97](/assets/img/47-kurdistan/402.jpg)  
@@ -825,13 +844,49 @@ rating: 5
 
 ![mhkarami97](/assets/img/47-kurdistan/405.jpg)
 
+## شماره تماس‌ها
+
+`آکو مریوانی` : `09380801315`  
+خواننده، توی روستا لک لک ها زندگی میکنه
+
+`حمید` : `09186612914`  
+برای ماهی فروشی نزدیک روستا لک لک ها
+
 ---
 
 ## بیشتر
-[عکس های منطقه]()  
+[عکس های منطقه](https://www.instagram.com/p/CdQm_ruMAWH/)  
 [فیلم منطقه]()  
 
 ---
 
 ## موقعیت‌ها
 `موقعیت` : [map location](https://www.google.com/maps/place/Kurdistan+Province/@35.5961624,45.7804286,8z/data=!3m1!4b1!4m5!3m4!1s0x3ff85011a8bbc2a3:0xeecda6b7fe6e96b0!8m2!3d35.382438!4d47.1362125)  
+
+`بیستون` : [map location](https://www.google.com/maps/place/Bisotun+Inscription/@34.3892918,47.4340091,15.78z/data=!4m13!1m7!3m6!1s0x3ffa9e2c043bcc6b:0xb4139c08867b3ad2!2sBisotun,+Kermanshah+Province,+Iran!3b1!8m2!3d34.3961908!4d47.4453628!3m4!1s0x3ffa9fccc22eb41d:0x1e84ff7bcda3d8f6!8m2!3d34.3904874!4d47.4359591)  
+
+`غار قوری قلعه` : [map location](https://www.google.com/maps/place/Quri+Qal'eh+Cave/@34.9143517,46.4370111,12.26z/data=!4m13!1m7!3m6!1s0x3ffaed9fb779436f:0xdfd40ef2ccc68ad3!2sKermanshah,+Kermanshah+Province,+Iran!3b1!8m2!3d34.3276924!4d47.0777685!3m4!1s0x3ff95debc4a5d043:0x90ce008546799f24!8m2!3d34.8995935!4d46.501918)  
+
+`پاوه` : [map location](https://www.google.com/maps/place/Komakal+park/@35.0393798,46.351893,14.6z/data=!4m13!1m7!3m6!1s0x3ffaed9fb779436f:0xdfd40ef2ccc68ad3!2sKermanshah,+Kermanshah+Province,+Iran!3b1!8m2!3d34.3276924!4d47.0777685!3m4!1s0x3ff9480102fbc4c1:0x5bf92f484ace32af!8m2!3d35.0357242!4d46.3599443)  
+
+`چشمه بل` : [map location](https://www.google.com/maps/place/Bel+Spring/@35.1696277,46.346775,17z/data=!3m1!4b1!4m5!3m4!1s0x3ff9301a79b97c79:0xcf636f0167ed3e25!8m2!3d35.1696277!4d46.3489637)  
+
+`روستا سلین` : [map location](https://www.google.com/maps/place/%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%DB%8C+%DA%AF%D8%B1%D8%AF%D8%B4%DA%AF%D8%B1%DB%8C+%D8%B3%D9%84%DB%8C%D9%86%E2%80%AD/@35.2207086,46.3212962,15.44z/data=!4m12!1m6!3m5!1s0x3ff9301a79b97c79:0xcf636f0167ed3e25!2sBel+Spring!8m2!3d35.1696277!4d46.3489637!3m4!1s0x0:0xccce04b930dd7105!8m2!3d35.2259132!4d46.3226305)  
+
+`کمپ شبانه در مدرسه` : [map location](https://www.google.com/maps/place/35%C2%B013'37.1%22N+46%C2%B019'27.3%22E/@35.226977,46.3234122,363m/data=!3m2!1e3!4b1!4m13!1m6!3m5!1s0x3ff9301a79b97c79:0xcf636f0167ed3e25!2sBel+Spring!8m2!3d35.1696277!4d46.3489637!3m5!1s0x0:0x94091bab2ecc60db!7e2!8m2!3d35.2269766!4d46.3242504)  
+
+`اورامان تخت` : [map location](https://www.google.com/maps/place/%D9%82%D9%84%D8%B9%D9%87+%D8%A7%D9%88%D8%B1%D8%A7%D9%85%D8%A7%D9%86%E2%80%AD/@35.2495152,46.2279069,13.09z/data=!4m12!1m6!3m5!1s0x3ff9301a79b97c79:0xcf636f0167ed3e25!2sBel+Spring!8m2!3d35.1696277!4d46.3489637!3m4!1s0x3ff92b7c2c6c7907:0x509cbb074748e5b9!8m2!3d35.2546388!4d46.2644504)  
+
+`روستا دزلی` : [map location](https://www.google.com/maps/place/Dezli,+Kurdistan+Province,+Iran/@35.3739344,46.143887,16z/data=!3m1!4b1!4m12!1m6!3m5!1s0x3ff9301a79b97c79:0xcf636f0167ed3e25!2sBel+Spring!8m2!3d35.1696277!4d46.3489637!3m4!1s0x3fff320bb89596a3:0x6deb539634588b30!8m2!3d35.3754042!4d46.1457968)  
+
+`دریاچه زریوار` : [map location](https://www.google.com/maps/place/Zrevar+Waterfront/@35.5362934,46.1434294,16.26z/data=!4m12!1m6!3m5!1s0x3ff9301a79b97c79:0xcf636f0167ed3e25!2sBel+Spring!8m2!3d35.1696277!4d46.3489637!3m4!1s0x3fff4bf88d6cccad:0x1d52e4aaa438de9f!8m2!3d35.5383936!4d46.1416736)  
+
+`روستا لک لک ها` : [map location](https://www.google.com/maps/place/%D9%84%D8%A7%D9%86%D9%87+%D9%84%DA%A9+%D9%84%DA%A9+%D9%87%D8%A7%E2%80%AD/@35.5377887,46.0934116,14.96z/data=!4m12!1m6!3m5!1s0x3ff9301a79b97c79:0xcf636f0167ed3e25!2sBel+Spring!8m2!3d35.1696277!4d46.3489637!3m4!1s0x3fff497e9c0606d3:0xc9f4fa83109dafff!8m2!3d35.5389431!4d46.096651)  
+
+`باغ گل` : [map location](https://www.google.com/maps/place/35%C2%B032'25.3%22N+46%C2%B005'55.3%22E/@35.540353,46.0980814,362m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0xd7cac797852ebffb!7e2!8m2!3d35.5403531!4d46.0987004)  
+
+`محل کمپ چنگلی` : [map location](https://www.google.com/maps/place/35%C2%B032'40.1%22N+46%C2%B005'25.5%22E/@35.5442543,46.0897325,176m/data=!3m1!1e3!4m6!3m5!1s0x0:0x43355541c72b1cb3!7e2!8m2!3d35.5444726!4d46.09041)  
+
+`روستا سردوش` : [map location](https://www.google.com/maps/place/Serdo%C5%9F,+Kurdistan+Province,+Iran/@35.5211544,46.0687585,724m/data=!3m2!1e3!4b1!4m5!3m4!1s0x3fff488dddfbfc15:0x7a3ea1cbee764d10!8m2!3d35.5218531!4d46.071226)  
+
+`رستوران ماهی، بنار` : [map location](https://www.google.com/maps/place/%D8%B1%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%86+%D9%88+%D8%A7%D9%82%D8%A7%D9%85%D8%AA%DA%AF%D8%A7%D9%87+%D8%A8%D9%88%D9%85+%DA%AF%D8%B1%D8%AF%DB%8C+%D9%86%D8%B4%DB%8C%D9%86%DA%AF%D9%87+%DB%8C+%D8%A8%D9%86%D8%A7%D8%B1%E2%80%AD/@35.5278834,46.0998983,3923m/data=!3m1!1e3!4m12!1m6!3m5!1s0x3ff9301a79b97c79:0xcf636f0167ed3e25!2sBel+Spring!8m2!3d35.1696277!4d46.3489637!3m4!1s0x3fff49cd7069df29:0xbc73fdc668034855!8m2!3d35.5249876!4d46.1038795)  
