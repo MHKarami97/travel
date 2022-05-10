@@ -918,4 +918,6 @@ iframe {
     display: block;
     margin: auto;
     width: 70%;
+    border: 2px solid #eee;
+    border-radius: 2px;
 }
