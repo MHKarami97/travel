@@ -434,6 +434,16 @@ comments: true
   <img src="/assets/images/tools/37.jpg" alt="mhkarami97" />
 </p>
 
+<h2>کیسه آب‌گرم</h2>
+<p>
+از دیگر وسایلی که در سفر کاربردی ندارند کیسه آب گرم است. این وسیله جای زیادی می‌گیرد و همچنین در صورت خروج آب از آن تمام وسایل خیس می‌شود. مخصوصا اگر از آن برای گرم شدن در زمان خواب استفاده کرده باشید. <br />
+بجای آن می‌توانید از بطری‌های پلاستیکی استفاده کنید و آن را با آبگرم پر کنید.
+</P>
+
+<p>
+  <img src="/assets/images/tools/38.jpg" alt="mhkarami97" />
+</p>
+
 <h2>فلاسک</h2>
 <p>
 فلاسک برای حمل نوشیدنی گرم و بیشتر در سفرهای یک روزه کاربرد دارد. <br />
@@ -441,7 +451,7 @@ comments: true
 </P>
 
 <p>
-  <img src="/assets/images/tools/38.jpg" alt="mhkarami97" />
+  <img src="/assets/images/tools/39.jpg" alt="mhkarami97" />
 </p>
 
 <h2>دستکش</h2>
@@ -451,7 +461,7 @@ comments: true
 </P>
 
 <p>
-  <img src="/assets/images/tools/39.jpg" alt="mhkarami97" />
+  <img src="/assets/images/tools/40.jpg" alt="mhkarami97" />
 </p>
 
 <h2>اسکارف</h2>
@@ -461,7 +471,7 @@ comments: true
 </P>
 
 <p>
-  <img src="/assets/images/tools/40.jpg" alt="mhkarami97" />
+  <img src="/assets/images/tools/41.jpg" alt="mhkarami97" />
 </p>
 
 <h2>پایه دوربین</h2>
@@ -471,7 +481,7 @@ comments: true
 </P>
 
 <p>
-  <img src="/assets/images/tools/41.jpg" alt="mhkarami97" />
+  <img src="/assets/images/tools/42.jpg" alt="mhkarami97" />
 </p>
 
 <h2>دمپایی و صندل</h2>
@@ -486,7 +496,7 @@ comments: true
 </P>
 
 <p>
-  <img src="/assets/images/tools/42.jpg" alt="mhkarami97" />
+  <img src="/assets/images/tools/43.jpg" alt="mhkarami97" />
 </p>
 
 <h2>کفش</h2>
@@ -500,11 +510,11 @@ comments: true
 </P>
 
 <p>
-  <img src="/assets/images/tools/43.jpg" alt="mhkarami97" />
+  <img src="/assets/images/tools/44.jpg" alt="mhkarami97" />
 </p>
 
 <p>
-  <img src="/assets/images/tools/44.jpg" alt="mhkarami97" />
+  <img src="/assets/images/tools/45.jpg" alt="mhkarami97" />
 </p>
 
 <h2>کیسه نگهدارنده</h2>
@@ -514,17 +524,15 @@ comments: true
 </P>
 
 <p>
-  <img src="/assets/images/tools/45.jpg" alt="mhkarami97" />
+  <img src="/assets/images/tools/46.jpg" alt="mhkarami97" />
 </p>
 
 <h2>کوله</h2>
 <p>
-
+از مهم‌ترین وسایل کوهنوردی کوله‌پشتی است که در واقع تمام وسایل بالا را توسط آن حمل می‌کنید. پس خوب بودن جنس آن بسیار مهم است. <br />
+مشخصات کوله خوب زیاد است که در اینترنت می‌توانید مشاهده کنید و نکته مهم این است که سعی کنید کوله ارزان نخرید که هم زود خراب می‌شود و هم به کمر شما آسیب می‌زند. <br />
+کوله‌ها را با لیتر اندازه‌گیری می‌کنند. دو کوله زیر به ترتیب 55 و 25 لیتری هستند. کوله کوچکتر برای سفرهای 1 روزه کافی است و از کوله بزرگتر برای سفرهای چند روزه می‌توانید استفاده کنید. 
 </P>
-
-<p>
-  <img src="/assets/images/tools/46.jpg" alt="mhkarami97" />
-</p>
 
 <p>
   <img src="/assets/images/tools/47.jpg" alt="mhkarami97" />
@@ -533,6 +541,9 @@ comments: true
 <p>
   <img src="/assets/images/tools/48.jpg" alt="mhkarami97" />
 </p>
+
+بر روی بند کوله‌ها یک سوت هم وجود دارد که در عکس زیر می‌توانید آن را مشاهده کنید. <br />
+خود جمع کردن وسایل داخل کوله هم مهم است که در اینترنت روش درست آن را می‌توانید پیدا کنید.
 
 <p>
   <img src="/assets/images/tools/49.jpg" alt="mhkarami97" />
