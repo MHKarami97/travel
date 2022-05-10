@@ -903,4 +903,18 @@ iframe {
 
 .tools p {
     margin: 1px auto;
+    direction: rtl;
+    text-align: right;
+}
+
+.tools h2 {
+    margin: 1px auto;
+    direction: rtl;
+    text-align: right;
+    width: 100%;
+}
+
+.tools img {
+    display: block;
+    margin: auto;
 }
