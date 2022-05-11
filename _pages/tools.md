@@ -34,6 +34,10 @@ comments: true
   <img src="/assets/images/tools/02.jpg" alt="mhkarami97" />
 </p>
 
+<p>
+  <img src="/assets/images/tools/57.jpg" alt="mhkarami97" />
+</p>
+
 <h2>لیوان</h2>
 <p>
 لیوان‌های سفری در سایزها و اندازه‌های مختلف وجود دارند که دارای جنس‌های مختلفی هم هستند.<br />
@@ -136,6 +140,10 @@ comments: true
   <img src="/assets/images/tools/12.jpg" alt="mhkarami97" />
 </p>
 
+<p>
+  <img src="/assets/images/tools/62.jpg" alt="mhkarami97" />
+</p>
+
 <h2>لوازم کاربردی</h2>
 <p>در عکس زیر بعضی وسایل که کاربردهای شخصی دارند را مشاهده می‌کنید. این وسایل را هم می‌توانید در بسته‌های آخر مطلب قرار دهید. این وسایل هم وزن کمی دارند.<br />
 وسایل عکس زیر شامل : محافظ زد آب گوشی، آینه، کرم آبر رسان پوست، کرم ضد آفتاب، مسواک، خمیر دندان، مهر، نخ دندان، گوشگیر است
@@ -151,6 +159,10 @@ comments: true
 
 <p>
   <img src="/assets/images/tools/14.jpg" alt="mhkarami97" />
+</p>
+
+<p>
+  <img src="/assets/images/tools/51.jpg" alt="mhkarami97" />
 </p>
 
 <h2>شست‌و‌شو</h2>
@@ -175,6 +187,10 @@ comments: true
 
 <p>
   <img src="/assets/images/tools/16.jpg" alt="mhkarami97" />
+</p>
+
+<p>
+  <img src="/assets/images/tools/60.jpg" alt="mhkarami97" />
 </p>
 
 <h2>کلاه</h2>
@@ -207,6 +223,18 @@ comments: true
 
 <p>
   <img src="/assets/images/tools/18.jpg" alt="mhkarami97" />
+</p>
+
+<p>
+  <img src="/assets/images/tools/63.jpg" alt="mhkarami97" />
+</p>
+
+<p>
+  <img src="/assets/images/tools/55.jpg" alt="mhkarami97" />
+</p>
+
+<p>
+  <img src="/assets/images/tools/64.jpg" alt="mhkarami97" />
 </p>
 
 <h2>چادر</h2>
@@ -263,6 +291,10 @@ comments: true
 روش راه رفتن را عصا را هم می‌توانید در اینترنت مشاهده کنید. <br />
 </P>
 
+<p>
+  <img src="/assets/images/tools/23.jpg" alt="mhkarami97" />
+</p>
+
 <h2>تبر</h2>
 <p>
 تبر در کوهنوردی خیلی کاربرد ندارد و بیشتر در مواقعی که نیاز به کوله‌کشی نیست از آن استفاده می‌شود. <br />
@@ -273,9 +305,16 @@ comments: true
   <img src="/assets/images/tools/25.jpg" alt="mhkarami97" />
 </p>
 
+<h2>اره</h2>
 <p>
-  <img src="/assets/images/tools/23.jpg" alt="mhkarami97" />
+اگر جایی نیاز به بریدن چوب داشتید، کارایی اره بیشتر از تبر است و راحت‌تر می‌توانید توسط آن چوب‌ها را ببرید. <br />
+هرچند این وسیله هم اضافه است و در زمان‌هایی که نیاز به کوله‌کشی نیست و یا می‌دانید حتما به آن نیاز پیدا می‌کنید باید آن را ببرید.
+</P>
+
+<p>
+  <img src="/assets/images/tools/54.jpg" alt="mhkarami97" />
 </p>
+
 
 <h2>لباس</h2>
 <p>از مهم‌ترین ویژگی‌های لباس‌های کوهنوردی سبک بودن و زود خشک است. <br />
@@ -341,6 +380,17 @@ comments: true
 
 <p>
   <img src="/assets/images/tools/50.jpg" alt="mhkarami97" />
+</p>
+
+<h2>بادگیر</h2>
+<p>
+بادگیر در زمان‌هایی که هوا بارانی و کمی باد است کاربرد دارد. بادگیر زیر بسیار سبک است و در جیب خود بادگیر هم جمع می‌شود و جای کمی می‌گیرد. البته نیاز به بردن آن به همه‌جا نیست. <br />
+از آن در زمان‌هایی که هوا کمی خنک است می‌توانید به عنوان لباس دوم استفاده کنید. <br />
+البته بادگیرها رطوبت بدن را کاملا حفظ می‌کنند و اجازه تبخیر عرق را نمی‌دهند که در دراز مدت بدن شما خیس می‌شود. 
+</P>
+
+<p>
+  <img src="/assets/images/tools/52.jpg" alt="mhkarami97" />
 </p>
 
 <h2>دست‌کش</h2>
@@ -525,6 +575,17 @@ comments: true
 
 <p>
   <img src="/assets/images/tools/46.jpg" alt="mhkarami97" />
+</p>
+
+<h2>ننو</h2>
+<p>
+ننو بیشتر یک وسیله راحتی است که در محل‌هایی که درخت زیاد است کاربرد دارد تا بتوان آن را بین دو درخت آویزان کرد و کمی بر روی آن دراز کشید. <br />
+این وسیله اندازه‌های مختلفی دارد که هرچند پارچه آن نازک است ولی بسیار محکم هستند و تحمل وزن افراد را دارند. <br />
+این وسیله را در زمان‌هایی که نیاز به کوله‌کشی نیست می‌توانید همراه خود ببرید زیرا وسیله‌ای ضروری نیست.
+</P>
+
+<p>
+  <img src="/assets/images/tools/53.jpg" alt="mhkarami97" />
 </p>
 
 <h2>کوله</h2>
