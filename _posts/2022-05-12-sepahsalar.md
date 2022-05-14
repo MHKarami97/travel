@@ -147,6 +147,10 @@ rating: 4
 
 ![mhkarami97](/assets/img/49-sepahsalar/64.jpg)  
 
+---
+
+## جزئیات پیمایش
+[جزئیات پیمایش](/assets/img/49-sepahsalar/65.jpg)
 
 ---
 
