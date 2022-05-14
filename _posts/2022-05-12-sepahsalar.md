@@ -150,7 +150,7 @@ rating: 4
 ---
 
 ## جزئیات پیمایش
-[جزئیات پیمایش](/assets/img/49-sepahsalar/65.jpg)
+[جزئیات پیمایش](/assets/img/49-sepahsalar/67.jpg)
 
 ---
 
