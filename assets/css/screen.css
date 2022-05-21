@@ -901,13 +901,13 @@ iframe {
     transition: opacity .25s;
 }
 
-.tools p {
+.tools p, ol {
     margin: 1px auto;
     direction: rtl;
     text-align: right;
 }
 
-.tools h2 {
+.tools h2, h1 {
     margin: 1px auto;
     direction: rtl;
     text-align: right;
