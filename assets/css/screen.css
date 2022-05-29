@@ -902,7 +902,7 @@ iframe {
 }
 
 .tools p, ol {
-    margin: 1px auto;
+    margin-top: 10px;
     direction: rtl;
     text-align: right;
 }
