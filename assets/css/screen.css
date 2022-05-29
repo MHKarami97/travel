@@ -907,7 +907,7 @@ iframe {
     text-align: right;
 }
 
-.tools h2, h1 {
+.tools h2, h1, h3, h4 {
     margin: 1px auto;
     direction: rtl;
     text-align: right;
