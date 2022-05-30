@@ -5,7 +5,7 @@ permalink: /foods
 comments: true
 ---
 
-<div class="row justify-content-between tools" style="margin-right:10px;margin-left:10px;">
+<div class="justify-content-between tools" style="margin-right:10px;margin-left:10px;">
 
 <h1>راهنما تغذیه در طبیعت و کوهنوردی</h1>
 

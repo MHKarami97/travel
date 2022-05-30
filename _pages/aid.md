@@ -5,7 +5,7 @@ permalink: /aid
 comments: true
 ---
 
-<div class="row justify-content-between tools" style="margin-right:10px;margin-left:10px;">
+<div class="justify-content-between tools" style="margin-right:10px;margin-left:10px;">
 
 <h1>راهنما کمک‌های اولیه در طبیعت و کوهنوردی</h1>
 
@@ -48,6 +48,10 @@ comments: true
 <h2>نکات کلی</h2>
 <p>
 لیست موارد بالا را بصورت عکس می‌توانید در (راهنما وسایل کوهنوردی) مشاهده کنید. موارد بالا را لازم نیست در یک جعبه کمک‌های اولیه که فضای زیادی می‌گیرد قرار دهید. شبیه همان عکس گفته شده می‌توانید در کاور قرار دهید
+</p>
+
+<p>
+  <img src="/assets/images/tools/11.jpg" alt="mhkarami97" />
 </p>
 
 </div>

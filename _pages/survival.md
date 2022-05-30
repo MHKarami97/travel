@@ -5,7 +5,7 @@ permalink: /survival
 comments: true
 ---
 
-<div class="row justify-content-between tools" style="margin-right:10px;margin-left:10px;">
+<div class="justify-content-between tools" style="margin-right:10px;margin-left:10px;">
 
 <h1>راهنما بقا در طبیعت</h1>
 <h4>بر اساس مستند Man Vs Wild</h4>

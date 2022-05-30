@@ -5,7 +5,7 @@ permalink: /bicycle
 comments: true
 ---
 
-<div class="row justify-content-between tools" style="margin-right:10px;margin-left:10px;">
+<div class="justify-content-between tools" style="margin-right:10px;margin-left:10px;">
 
 <h1>راهنما سفر با دوچرخه</h1>
 
