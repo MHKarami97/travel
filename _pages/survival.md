@@ -65,4 +65,9 @@ comments: true
 </ol>
 </p>
 
+
+<p>
+<a href="https://drive.google.com/drive/folders/1-XsQD0eAnoaGVlqfRAyjBaPNDeYgfYiX?usp=sharing">کتاب‌های راهنما بقا در طبیعت</a>
+</p>
+
 </div>
