@@ -42,6 +42,10 @@ comments: true
 همراه داشتن (یک کنسرو ماهی، یک نودل، یک سوپ) به نظر من کافی است. <br />
 </p>
 
+<p>
+  <img src="/assets/images/foods/01.jpg" alt="mhkarami97" />
+</p>
+
 <hr>
 
 <h2>پخت‌و‌پز</h2>
