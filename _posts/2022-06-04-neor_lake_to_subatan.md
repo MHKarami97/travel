@@ -645,13 +645,15 @@ rating: 5
 ---
 
 ## جزئیات پیمایش
-[جزئیات پیمایش رفت]()  
+[جزئیات پیمایش رفت](/assets/img/55-neor_lake_to_subatan/284.jpg)  
+[جزئیات پیمایش رفت](/assets/img/55-neor_lake_to_subatan/285.jpg)  
+[جزئیات پیمایش رفت](/assets/img/55-neor_lake_to_subatan/286.jpg)  
 
 ---
 
 ## بیشتر
 [عکس های منطقه](https://www.instagram.com/p/CeawUZcjf5b/)  
-[فیلم منطقه]()  
+[فیلم منطقه](https://www.instagram.com/p/CebqkyRjogH/)  
 
 ---
 
