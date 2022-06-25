@@ -4,7 +4,7 @@ title: "دریاچه سوها به لاتون"
 author: mhk
 categories: [Nature]
 tags: [nature, ardebil]
-image: assets/img/56-sooha_to_laton/108.jpg
+image: assets/img/56-sooha_to_laton/018.jpg
 description: "دریاچه سوها به لاتون"
 featured: true
 hidden: true
