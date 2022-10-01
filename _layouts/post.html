@@ -150,7 +150,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
 {% endif %} -->
 
 <script>
-    var pictures = document.querySelectorAll(".article-post > img");
+    var pictures = document.querySelectorAll(".article-post > p > img");
 
     for (var i = 0, l = pictures.length; i < l; i++) {
         pictures[i].setAttribute("data-src", pictures[i].src);
