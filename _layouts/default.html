@@ -187,6 +187,16 @@
 
 <!-- Scripts
 ================================================== -->
+	
+<script>
+    var pictures = document.querySelectorAll(".article-post > p > img");
+
+    for (var i = 0, l = pictures.length; i < l; i++) {
+        pictures[i].setAttribute("data-src", pictures[i].src);
+        pictures[i].src = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=";
+        pictures[i].className += " lazyimg";
+    }
+</script>	
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
 
