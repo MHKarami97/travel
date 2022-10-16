@@ -2,8 +2,8 @@
 layout: post
 title: "پارک آبشار تهران"
 author: mhk
-categories: [Nature]
-tags: [nature, tehran]
+categories: [شهر‌گردی]
+tags: [شهر‌گردی, تهران]
 image: assets/img/54-tehran_waterfall_park/23.jpg
 description: "پارک آبشار تهران"
 featured: true

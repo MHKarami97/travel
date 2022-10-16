@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "پیمایش خلخال به اسالم"
+title: "پیمایش خلخال به اسالم"
 author: mhk
-categories: [Nature]
-tags: [nature, asalem, khalkhal]
+categories: [طبیعت]
+tags: [طبیعت, اردبیل, جنگل, پیمایش]
 image: assets/img/11-khalkhal_asalem/01.jpg
 description: "پیمایش خلخال به اسالم"
 featured: true

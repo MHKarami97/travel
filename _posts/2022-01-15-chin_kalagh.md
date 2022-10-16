@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "قله چین کلاغ"
+title: "قله چین کلاغ"
 author: mhk
-categories: [Nature]
-tags: [nature, chin_alagh, tehran]
+categories: [کوه]
+tags: [کوه, تهران]
 image: assets/img/32-chin_kalagh/25.jpg
 description: "قله چین کلاغ"
 featured: true

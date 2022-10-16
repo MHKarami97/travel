@@ -2,8 +2,8 @@
 layout: post
 title: "دریاچه سوها به لاتون"
 author: mhk
-categories: [Nature]
-tags: [nature, ardebil]
+categories: [طبیعت]
+tags: [طبیعت, اردبیل, دریاچه, آبشار, پیمایش]
 image: assets/img/56-sooha_to_laton/018.jpg
 description: "دریاچه سوها به لاتون"
 featured: true

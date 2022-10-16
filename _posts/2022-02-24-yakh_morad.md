@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "غار یخ مراد"
+title: "غار یخ مراد"
 author: mhk
-categories: [Nature]
-tags: [nature, alborz, yakh_morad]
+categories: [غار]
+tags: [غار, البرز, یخ]
 image: assets/img/40-yakh_morad/18.jpg
 description: "غار یخ مراد"
 featured: true

@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "دریاچه استخرگاه"
+title: "دریاچه استخرگاه"
 author: mhk
-categories: [Nature]
-tags: [nature, gilan]
+categories: [طبیعت]
+tags: [طبیعت, گیلان, دریاچه]
 image: assets/img/43-estakhrgah/10.jpg
-description:  "دریاچه استخرگاه"
+description: "دریاچه استخرگاه"
 featured: true
 hidden: true
 rating: 4

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "میدان اسبی"
+title: "میدان اسبی"
 author: mhk
-categories: [Nature]
-tags: [nature, asbi_square, karaj]
+categories: [شهر‌گردی]
+tags: [شهر‌گردی, البرز]
 image: assets/img/19-asbi_square/01.jpg
 description: "میدان اسبی"
 featured: true

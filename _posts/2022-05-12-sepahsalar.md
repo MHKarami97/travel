@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "آبشار سپهسالار"
+title: "آبشار سپهسالار"
 author: mhk
-categories: [Nature]
-tags: [nature, alborz]
+categories: [طبیعت]
+tags: [طبیعت, البرز, آبشار]
 image: assets/img/49-sepahsalar/45.jpg
-description:  "آبشار سپهسالار"
+description: "آبشار سپهسالار"
 featured: true
 hidden: true
 rating: 4

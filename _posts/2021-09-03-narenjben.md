@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "نارنج بن در شیرگاه"
+title: "نارنج‌بن در شیرگاه"
 author: mhk
-categories: [Nature]
-tags: [nature, narenjben, shirgah]
+categories: [طبیعت]
+tags: [طبیعت, مازندران]
 image: assets/img/07-narenjben/01.jpg
-description: "نارنج بن در شیرگاه"
+description: "نارنج‌بن در شیرگاه"
 featured: true
 hidden: true
 rating: 5

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "دریاچه چیتگر"
+title: "دریاچه چیتگر"
 author: mhk
-categories: [Nature]
-tags: [nature, chitgar_lake, tehran]
+categories: [شهر‌گردی]
+tags: [شهر‌گردی, تهران, دریاچه]
 image: assets/img/23-chitgar_lake/01.jpg
 description: "دریاچه چیتگر"
 featured: true

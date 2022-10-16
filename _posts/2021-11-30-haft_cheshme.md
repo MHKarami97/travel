@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "هفت چشمه"
+title: "هفت‌چشمه"
 author: mhk
-categories: [Nature]
-tags: [nature, haft_cheshme, karaj]
+categories: [طبیعت]
+tags: [طبیعت, چشمه, البرز]
 image: assets/img/22-haft_cheshme/01.jpg
 description: "هفت چشمه"
 featured: true

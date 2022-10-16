@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "باغ فاتح"
+title: "باغ فاتح"
 author: mhk
-categories: [Nature]
-tags: [nature, fateh_garden, karaj]
+categories: [شهر‌گردی]
+tags: [شهر‌گردی, البرز]
 image: assets/img/20-fateh_garden/01.jpg
 description: "باغ فاتح"
 featured: true

@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "پل طبیعت و پارک آب‌و‌آتش"
+title: "پل طبیعت و پارک آب‌و‌آتش"
 author: mhk
-categories: [Nature]
-tags: [nature, tehran]
+categories: [شهر‌گردی]
+tags: [شهر‌گردی, تهران]
 image: assets/img/50-tabiat_bridge/36.jpg
-description:  "پل طبیعت و پارک آب‌و‌آتش"
+description: "پل طبیعت و پارک آب‌و‌آتش"
 featured: true
 hidden: true
 rating: 4

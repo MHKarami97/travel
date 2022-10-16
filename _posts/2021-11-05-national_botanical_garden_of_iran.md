@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "باغ ملی گیاه شناسی ایران"
+title: "باغ ملی گیاه شناسی ایران"
 author: mhk
-categories: [Nature]
-tags: [nature, national_botanical_garden_of_iran, tehran]
+categories: [شهر‌گردی]
+tags: [شهر‌گردی, تهران]
 image: assets/img/15-national_botanical_garden_of_iran/01.jpg
 description: "باغ ملی گیاه شناسی ایران"
 featured: true

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "پارک ایران کوچک"
+title: "پارک ایران کوچک"
 author: mhk
-categories: [Nature]
-tags: [nature, little_iran_park, karaj]
+categories: [شهر‌گردی]
+tags: [شهر‌گردی, البرز]
 image: assets/img/16-little_iran_park/01.jpg
 description: "پارک ایران کوچک"
 featured: true

@@ -2,8 +2,8 @@
 layout: post
 title: "تنگه چیتاوه به تنگه براق"
 author: mhk
-categories: [Nature]
-tags: [nature, shiraz, kohgiluyeh_and_boyer_a_hmad]
+categories: [طبیعت]
+tags: [طبیعت, شیراز, کهگیلویه و بویراحمد, تنگه, آبشار]
 image: assets/img/58-chitab_to_buraq/167.jpg
 description: "تنگه چیتاوه به تنگه براق"
 featured: true

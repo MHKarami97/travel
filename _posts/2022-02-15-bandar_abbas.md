@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "بندر عباس"
+title: "بندر عباس"
 author: mhk
-categories: [Nature]
-tags: [nature, hormuzgan, bandar_abbas]
+categories: [طبیعت]
+tags: [طبیعت, دریا, هرمزگان]
 image: assets/img/35-bandar_abbas/12.jpg
 description: "بندر عباس"
 featured: true
