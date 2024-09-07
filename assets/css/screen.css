@@ -893,6 +893,8 @@ iframe {
     transition: opacity .25s;
     background: #f2f2f2;
     outline: 0 none;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .lazyimg[data-src],
