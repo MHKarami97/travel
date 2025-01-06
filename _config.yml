@@ -5,6 +5,7 @@ description: "سفرنامه"
 logo: 'assets/images/favicon.png'
 favicon: 'assets/images/favicon.png'
 baseurl: '/'
+url: "https://travel.mhkarami97.ir"
 #google_analytics: ''
 #disqus: ''
 #mailchimp-list: ''
