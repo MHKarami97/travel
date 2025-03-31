@@ -12,13 +12,14 @@ rating: 3
 ---
 
 ## توضیحات
-
+استان خراسان شمالی که به کردستان شمال معروف است، یکی از استان‌های ایران است. مرکز این استان شهر بجنورد بوده و واقع در شمال شرقی این کشور است.  
 
 ## نکات
 
 
 ## موقعیت‌ها
-[]()  
+[بجنورد](https://www.google.com/maps/place/Bojnurd,+North+Khorasan+Province,+Iran/@37.4719281,57.2829259,13z/data=!3m1!4b1!4m15!1m8!3m7!1s0x3f70b09a97122725:0x93ecd53355ae3e1f!2sNorth+Khorasan+Province,+Iran!3b1!8m2!3d37.3744224!4d57.2818625!16zL20vMDRxYnEx!3m5!1s0x3f709663dbc56c8f:0xc35fb3c139726c74!8m2!3d37.4744863!4d57.3233079!16s%2Fm%2F04d_x57?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D)  
+[آینه سرا](https://www.google.com/maps/place/Sardar+Mofakham+Mirror+House/@37.4719281,57.2829259,13z/data=!4m15!1m8!3m7!1s0x3f70b09a97122725:0x93ecd53355ae3e1f!2sNorth+Khorasan+Province,+Iran!3b1!8m2!3d37.3744224!4d57.2818625!16zL20vMDRxYnEx!3m5!1s0x3f70968c9ec0e0b3:0xbdbf39c7920336df!8m2!3d37.4843438!4d57.3329794!16s%2Fg%2F12dpwhx5h?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D)  
 
 ## عکس‌ها
 
