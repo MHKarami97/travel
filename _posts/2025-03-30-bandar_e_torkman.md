@@ -1,0 +1,51 @@
+---
+layout: post
+title: "بندر ترکمن"
+author: mhk
+categories: [خرید]
+tags: [خرید, بندر, گلستان, شهر]
+image: assets/img/113-bandar_e_torkman/01.jpg
+description: "بندر ترکمن"
+featured: true
+hidden: true
+rating: 3
+---
+
+## توضیحات
+بندر ترکمن، واقع در استان گلستان و در سواحل دریای خزر، یکی از شهرهای زیبا و تاریخی ایران است. بندر ترکمن در شمال شرق ایران و در نزدیکی مرز ترکمنستان قرار دارد. این شهر به‌خاطر موقعیت جغرافیایی خاص خود، به‌عنوان یک مرکز تجاری و گردشگری شناخته می‌شود. سواحل زیبا و مناظر طبیعی خیره‌کننده این منطقه، آن را به مقصدی محبوب برای مسافران تبدیل کرده است.  
+
+## نکات
+
+
+## موقعیت‌ها
+[بندر](https://www.google.com/maps/place/Bandar-e+Torkman,+Golestan+Province,+Iran/@36.9029513,54.034497,13z/data=!3m1!4b1!4m6!3m5!1s0x3f84a06919eec929:0x35f889cfa5b50563!8m2!3d36.8929191!4d54.069943!16zL20vMDYxOG1z?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D)  
+
+## عکس‌ها
+
+![mhkarami97](/assets/img/113-bandar_e_torkman/01.jpg)  
+  
+![mhkarami97](/assets/img/113-bandar_e_torkman/02.jpg)  
+  
+![mhkarami97](/assets/img/113-bandar_e_torkman/03.jpg)  
+  
+![mhkarami97](/assets/img/113-bandar_e_torkman/04.jpg)  
+  
+![mhkarami97](/assets/img/113-bandar_e_torkman/05.jpg)  
+  
+![mhkarami97](/assets/img/113-bandar_e_torkman/06.jpg)  
+  
+![mhkarami97](/assets/img/113-bandar_e_torkman/07.jpg)  
+  
+![mhkarami97](/assets/img/113-bandar_e_torkman/08.jpg)  
+  
+![mhkarami97](/assets/img/113-bandar_e_torkman/09.jpg)  
+  
+![mhkarami97](/assets/img/113-bandar_e_torkman/10.jpg)  
+  
+![mhkarami97](/assets/img/113-bandar_e_torkman/11.jpg)  
+  
+![mhkarami97](/assets/img/113-bandar_e_torkman/12.jpg)  
+  
+![mhkarami97](/assets/img/113-bandar_e_torkman/13.jpg)  
+  
+![mhkarami97](/assets/img/113-bandar_e_torkman/14.jpg)  
