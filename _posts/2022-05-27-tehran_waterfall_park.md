@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "پارک آبشار تهران"
-author: mhk
+author: mhkarami97
 categories: [شهر‌گردی]
 tags: [شهر‌گردی, تهران]
 image: assets/img/54-tehran_waterfall_park/23.jpg
@@ -20,53 +20,53 @@ rating: 4
 
 ## عکس‌ها
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/01.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/01.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/02.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/02.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/03.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/03.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/04.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/04.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/05.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/05.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/06.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/06.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/07.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/07.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/08.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/08.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/09.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/09.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/10.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/10.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/11.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/11.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/12.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/12.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/13.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/13.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/14.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/14.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/15.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/15.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/16.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/16.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/17.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/17.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/18.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/18.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/19.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/19.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/20.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/20.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/21.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/21.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/22.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/22.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/23.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/23.jpg)  
 
-![mhkarami97](/assets/img/54-tehran_waterfall_park/24.jpg)  
+![tehran_waterfall_park](/assets/img/54-tehran_waterfall_park/24.jpg)  
 
 ---
 

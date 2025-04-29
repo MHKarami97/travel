@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "آذربایجان شرقی و ارومیه"
-author: mhk
+author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, قلعه, جنگل, دریاچه, شهر, رودخانه, آذربایجان_شرقی]
 image: assets/img/97-east_azerbaijan/064.jpg
@@ -68,308 +68,308 @@ rating: 4
 
 ## عکس‌ها
 
-![mhkarami97](/assets/img/97-east_azerbaijan/001.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/001.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/002.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/002.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/003.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/003.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/004.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/004.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/005.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/005.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/006.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/006.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/007.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/007.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/008.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/008.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/009.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/009.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/010.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/010.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/011.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/011.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/012.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/012.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/013.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/013.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/014.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/014.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/015.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/015.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/016.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/016.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/017.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/017.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/018.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/018.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/019.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/019.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/020.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/020.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/021.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/021.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/022.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/022.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/023.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/023.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/024.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/024.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/025.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/025.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/026.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/026.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/027.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/027.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/028.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/028.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/029.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/029.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/030.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/030.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/031.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/031.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/032.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/032.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/033.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/033.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/034.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/034.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/035.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/035.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/036.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/036.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/037.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/037.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/038.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/038.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/039.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/039.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/040.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/040.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/041.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/041.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/042.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/042.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/043.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/043.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/044.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/044.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/045.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/045.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/046.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/046.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/047.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/047.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/048.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/048.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/049.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/049.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/050.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/050.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/051.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/051.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/052.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/052.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/053.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/053.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/054.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/054.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/055.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/055.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/056.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/056.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/057.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/057.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/058.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/058.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/059.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/059.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/060.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/060.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/061.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/061.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/062.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/062.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/063.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/063.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/064.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/064.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/065.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/065.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/066.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/066.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/067.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/067.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/068.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/068.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/069.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/069.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/070.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/070.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/071.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/071.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/072.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/072.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/073.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/073.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/074.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/074.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/075.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/075.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/076.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/076.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/077.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/077.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/078.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/078.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/079.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/079.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/080.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/080.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/081.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/081.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/082.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/082.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/083.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/083.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/084.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/084.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/085.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/085.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/086.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/086.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/087.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/087.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/088.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/088.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/089.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/089.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/090.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/090.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/091.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/091.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/092.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/092.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/093.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/093.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/094.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/094.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/095.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/095.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/096.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/096.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/097.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/097.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/098.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/098.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/099.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/099.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/100.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/100.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/101.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/101.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/102.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/102.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/103.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/103.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/104.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/104.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/105.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/105.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/106.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/106.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/107.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/107.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/108.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/108.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/109.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/109.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/110.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/110.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/111.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/111.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/112.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/112.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/113.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/113.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/114.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/114.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/115.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/115.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/116.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/116.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/117.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/117.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/118.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/118.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/119.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/119.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/120.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/120.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/121.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/121.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/122.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/122.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/123.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/123.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/124.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/124.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/125.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/125.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/126.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/126.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/127.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/127.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/128.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/128.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/129.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/129.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/130.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/130.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/131.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/131.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/132.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/132.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/133.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/133.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/134.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/134.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/135.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/135.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/136.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/136.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/137.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/137.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/138.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/138.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/139.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/139.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/140.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/140.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/141.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/141.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/142.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/142.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/143.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/143.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/144.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/144.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/145.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/145.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/146.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/146.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/147.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/147.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/148.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/148.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/149.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/149.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/150.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/150.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/151.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/151.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/152.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/152.jpg)  
 
-![mhkarami97](/assets/img/97-east_azerbaijan/153.jpg)  
+![east_azerbaijan](/assets/img/97-east_azerbaijan/153.jpg)  

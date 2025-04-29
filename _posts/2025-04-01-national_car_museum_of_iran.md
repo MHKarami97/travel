@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "موزه خودروهای تاریخی ایران"
-author: mhk
+author: mhkarami97
 categories: [شهر]
 tags: [شهر, تاریخی, موزه, تهران]
 image: assets/img/124-national_car_museum_of_iran/04.jpg
@@ -25,78 +25,78 @@ rating: 4
 
 ## عکس‌ها
 
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/01.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/01.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/02.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/02.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/03.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/03.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/04.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/04.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/05.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/05.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/06.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/06.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/07.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/07.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/08.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/08.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/09.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/09.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/10.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/10.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/11.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/11.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/12.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/12.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/13.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/13.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/14.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/14.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/15.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/15.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/16.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/16.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/17.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/17.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/18.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/18.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/19.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/19.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/20.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/20.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/21.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/21.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/22.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/22.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/23.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/23.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/24.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/24.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/25.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/25.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/26.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/26.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/27.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/27.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/28.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/28.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/29.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/29.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/30.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/30.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/31.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/31.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/32.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/32.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/33.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/33.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/34.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/34.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/35.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/35.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/36.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/36.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/37.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/37.jpg)  
   
-![mhkarami97](/assets/img/124-national_car_museum_of_iran/38.jpg)  
+![national_car_museum_of_iran](/assets/img/124-national_car_museum_of_iran/38.jpg)  

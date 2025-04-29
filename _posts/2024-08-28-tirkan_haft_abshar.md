@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "هفت آبشار تیرکن"
-author: mhk
+author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, جنگل, آبشار, مازندران]
 image: assets/img/100-tirkan_haft_abshar/24.jpg
@@ -32,74 +32,74 @@ rating: 3.5
 ## عکس‌ها
 
 ### مسیر
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/01.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/01.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/02.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/02.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/03.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/03.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/04.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/04.jpg)  
 
 ### دریاچه الیمانات
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/05.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/05.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/06.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/06.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/07.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/07.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/08.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/08.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/09.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/09.jpg)  
 
 ### جنگل لاویج
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/10.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/10.jpg)  
 
 ### فریدونکنار
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/11.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/11.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/12.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/12.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/13.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/13.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/14.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/14.jpg)  
 
 ### پارکینگ
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/15.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/15.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/16.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/16.jpg)  
 
 ### مسیر آبشار
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/17.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/17.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/18.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/18.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/19.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/19.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/20.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/20.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/21.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/21.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/22.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/22.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/23.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/23.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/24.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/24.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/25.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/25.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/26.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/26.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/27.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/27.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/28.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/28.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/29.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/29.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/30.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/30.jpg)  
 
-![mhkarami97](/assets/img/100-tirkan_haft_abshar/31.jpg)  
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/31.jpg)  

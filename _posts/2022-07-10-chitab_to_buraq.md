@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "تنگه چیتاوه به تنگه براق"
-author: mhk
+author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, شیراز, کهگیلویه و بویراحمد, تنگه, آبشار]
 image: assets/img/58-chitab_to_buraq/167.jpg
@@ -28,367 +28,367 @@ rating: 5
 
 ### اصفهان
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/001.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/001.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/002.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/002.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/003.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/003.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/004.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/004.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/005.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/005.jpg)  
 
 ### سمیرم
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/006.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/006.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/007.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/007.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/008.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/008.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/009.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/009.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/010.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/010.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/011.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/011.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/012.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/012.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/013.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/013.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/014.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/014.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/015.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/015.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/016.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/016.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/017.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/017.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/018.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/018.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/019.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/019.jpg)  
 
 ### مسیر
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/020.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/020.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/021.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/021.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/022.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/022.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/023.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/023.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/024.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/024.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/025.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/025.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/026.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/026.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/027.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/027.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/028.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/028.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/029.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/029.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/030.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/030.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/031.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/031.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/032.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/032.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/033.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/033.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/034.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/034.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/035.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/035.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/036.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/036.jpg)  
 
 ### کوه گل
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/037.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/037.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/038.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/038.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/039.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/039.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/040.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/040.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/041.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/041.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/042.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/042.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/043.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/043.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/044.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/044.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/045.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/045.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/046.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/046.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/047.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/047.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/048.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/048.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/049.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/049.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/050.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/050.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/051.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/051.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/052.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/052.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/053.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/053.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/054.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/054.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/055.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/055.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/056.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/056.jpg)  
 
 ### مسیر تنگه چیتابه
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/057.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/057.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/058.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/058.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/059.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/059.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/060.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/060.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/061.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/061.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/062.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/062.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/063.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/063.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/064.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/064.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/065.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/065.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/066.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/066.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/067.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/067.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/068.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/068.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/069.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/069.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/070.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/070.jpg)  
 
 ### تنگه چیتابه
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/071.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/071.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/072.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/072.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/073.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/073.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/074.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/074.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/075.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/075.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/076.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/076.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/077.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/077.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/078.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/078.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/079.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/079.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/080.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/080.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/081.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/081.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/082.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/082.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/083.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/083.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/084.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/084.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/085.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/085.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/086.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/086.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/087.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/087.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/088.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/088.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/089.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/089.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/090.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/090.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/091.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/091.jpg)  
 
 ### امام زاده نزدیک یاسوج به سمت آبشار مارگون
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/092.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/092.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/093.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/093.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/094.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/094.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/095.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/095.jpg)  
 
 ### آبشار مارگون
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/096.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/096.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/097.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/097.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/098.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/098.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/099.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/099.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/100.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/100.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/101.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/101.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/102.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/102.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/103.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/103.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/104.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/104.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/105.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/105.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/106.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/106.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/107.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/107.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/108.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/108.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/109.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/109.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/110.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/110.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/111.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/111.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/112.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/112.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/113.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/113.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/114.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/114.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/115.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/115.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/116.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/116.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/117.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/117.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/118.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/118.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/119.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/119.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/120.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/120.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/121.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/121.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/122.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/122.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/123.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/123.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/124.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/124.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/125.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/125.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/126.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/126.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/127.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/127.jpg)  
 
 ### مسیر به سمت تنگه براق
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/128.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/128.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/129.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/129.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/130.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/130.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/131.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/131.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/132.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/132.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/133.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/133.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/134.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/134.jpg)  
 
 ### رودخانه براق
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/135.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/135.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/136.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/136.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/137.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/137.jpg)  
 
 ### تنگه براق
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/138.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/138.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/139.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/139.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/140.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/140.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/141.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/141.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/142.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/142.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/143.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/143.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/144.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/144.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/145.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/145.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/146.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/146.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/147.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/147.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/148.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/148.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/149.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/149.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/150.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/150.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/151.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/151.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/152.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/152.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/153.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/153.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/154.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/154.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/155.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/155.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/156.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/156.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/157.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/157.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/158.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/158.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/159.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/159.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/160.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/160.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/161.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/161.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/162.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/162.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/163.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/163.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/164.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/164.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/165.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/165.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/166.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/166.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/167.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/167.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/168.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/168.jpg)  
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/169.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/169.jpg)  
 
 ### اصفهان
 
-![mhkarami97](/assets/img/58-chitab_to_buraq/170.jpg)  
+![chitab_to_buraq](/assets/img/58-chitab_to_buraq/170.jpg)  
 
 ---
 

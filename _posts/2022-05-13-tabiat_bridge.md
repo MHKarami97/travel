@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "پل طبیعت و پارک آب‌و‌آتش"
-author: mhk
+author: mhkarami97
 categories: [شهر‌گردی]
 tags: [شهر‌گردی, تهران]
 image: assets/img/50-tabiat_bridge/36.jpg
@@ -19,93 +19,93 @@ rating: 4
 ## عکس‌ها
 عکس‌های گرفته شده در سفر
 
-![mhkarami97](/assets/img/50-tabiat_bridge/01.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/01.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/02.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/02.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/03.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/03.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/04.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/04.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/05.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/05.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/06.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/06.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/07.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/07.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/08.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/08.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/09.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/09.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/10.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/10.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/11.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/11.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/12.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/12.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/13.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/13.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/14.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/14.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/15.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/15.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/16.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/16.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/17.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/17.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/18.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/18.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/19.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/19.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/20.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/20.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/21.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/21.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/22.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/22.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/23.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/23.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/24.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/24.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/25.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/25.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/26.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/26.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/27.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/27.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/28.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/28.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/29.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/29.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/30.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/30.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/31.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/31.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/32.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/32.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/33.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/33.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/34.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/34.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/35.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/35.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/36.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/36.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/37.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/37.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/38.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/38.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/39.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/39.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/40.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/40.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/41.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/41.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/42.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/42.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/43.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/43.jpg)  
 
-![mhkarami97](/assets/img/50-tabiat_bridge/44.jpg)  
+![tabiat_bridge](/assets/img/50-tabiat_bridge/44.jpg)  
 
 ---
 

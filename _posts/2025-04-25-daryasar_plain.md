@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "دشت دریاسر"
-author: mhk
+author: mhkarami97
 categories: [دشت]
 tags: [دشت, رودخانه, جنگل, مازندران]
 image: assets/img/126-daryasar_plain/29.jpg
@@ -31,112 +31,112 @@ rating: 4
 [دشت دریاسر](https://www.google.com/maps/place/%D8%AF%D8%B4%D8%AA+%D8%AF%D8%B1%DB%8C%D8%A7%D8%B3%D8%B1%E2%80%AD/data=!4m2!3m1!1s0x3f8b807e1070b083:0x586004d2dc42eb50?sa=X&ved=1t:155783&ictx=111)  
 
 ## فایل Track مسیر
-![mhkarami97](/assets/img/126-daryasar_plain/01.gpx)  
+[daryasar_plain](/assets/img/126-daryasar_plain/01.gpx)  
 
 ## عکس‌ها
 
 ### جاده چالوس
 
-![mhkarami97](/assets/img/126-daryasar_plain/01.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/01.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/02.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/02.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/03.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/03.jpg)  
 
 ### ساحل تنکابن
   
-![mhkarami97](/assets/img/126-daryasar_plain/04.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/04.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/05.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/05.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/06.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/06.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/07.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/07.jpg)  
 
 ### جنگل دوهزار
   
-![mhkarami97](/assets/img/126-daryasar_plain/08.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/08.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/09.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/09.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/10.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/10.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/11.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/11.jpg)  
 
 ### روستا اسل محله
   
-![mhkarami97](/assets/img/126-daryasar_plain/12.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/12.jpg)  
 
 ### شروع پیمایش
   
-![mhkarami97](/assets/img/126-daryasar_plain/13.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/13.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/14.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/14.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/15.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/15.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/16.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/16.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/17.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/17.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/18.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/18.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/19.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/19.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/20.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/20.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/21.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/21.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/22.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/22.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/23.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/23.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/24.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/24.jpg)  
 
 ### دشت دریاسر
   
-![mhkarami97](/assets/img/126-daryasar_plain/25.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/25.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/26.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/26.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/27.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/27.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/28.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/28.jpg)  
 
-![mhkarami97](/assets/img/126-daryasar_plain/29.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/29.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/30.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/30.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/31.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/31.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/32.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/32.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/33.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/33.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/34.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/34.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/35.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/35.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/36.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/36.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/37.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/37.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/38.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/38.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/39.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/39.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/40.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/40.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/41.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/41.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/42.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/42.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/43.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/43.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/44.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/44.jpg)  
   
-![mhkarami97](/assets/img/126-daryasar_plain/45.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/45.jpg)  
 
 ### جنگل دوهزار
   
-![mhkarami97](/assets/img/126-daryasar_plain/46.jpg)  
+![daryasar_plain](/assets/img/126-daryasar_plain/46.jpg)  

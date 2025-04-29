@@ -15,13 +15,13 @@ rating: 4.5
 برای دسترسی به این مکان باید از جاده هراز استفاده کرد و فاصله تقریبی 1.5 ساعته از تهران دارد.  
 
 <p align="center" >
-  <img src="/assets/img/02-tangeZaman/07.jpeg" alt="mhkarami97" />
+  <img src="/assets/img/02-tangeZaman/07.jpeg" alt="tange_zaman" />
 </p>
 
 این منطقه دارای هوایی نسبتا سرد حتی در تابستان میباشد و زمان مناسب سفر فقط در تابستان است. بخصوص اینکه نیاز به پیاده روی در آب رودخانه دارید.  
 
 <p align="center" >
-  <img src="/assets/img/02-tangeZaman/05.jpeg" alt="mhkarami97" />
+  <img src="/assets/img/02-tangeZaman/05.jpeg" alt="tange_zaman" />
 </p>
 
 برای شب مانی در این منطقه میتوانید از امام زاده ای که در این منطقه وجود دارد استفاده کنید.  روبری این محل دشتی بزرگ برای برپایی چادر وجود دارد.  
@@ -29,21 +29,21 @@ rating: 4.5
 برای دسترسی به این محل باید پل سنگی را رد کنید و بعد از چند کیلومتر وارد جاده خالی سمت چپ خود شوید.
 
 <p align="center" >
-  <img src="/assets/img/02-tangeZaman/01.jpeg" alt="mhkarami97" />
+  <img src="/assets/img/02-tangeZaman/01.jpeg" alt="tange_zaman" />
 </p>
 
 برای خرید میتوانید از خود شهر پلور استفاده کنید و از پل سنگی به بعد دیگر محلی برای خرید وجود ندارد.  
 همچنین آخرین نقطه دسترسی به اینترنت همان پل سنگی میباشد.  
 
 <p align="center" >
-  <img src="/assets/img/02-tangeZaman/08.jpeg" alt="mhkarami97" />
+  <img src="/assets/img/02-tangeZaman/08.jpeg" alt="tange_zaman" />
 </p>
 
 در مسیر تنگه، دو آبشار کوچک وجود دارد که میتوانید آب آشامیدنی خود را از آنها تامین نمایید.
 لازم به ذکر است که آب خود رودخانه به علت املاح معدنی دارای رنگ آبی است و قابل آشامیدن نیست.
 
 <p align="center" >
-  <img src="/assets/img/02-tangeZaman/04.jpeg" alt="mhkarami97" />
+  <img src="/assets/img/02-tangeZaman/04.jpeg" alt="tange_zaman" />
 </p>
 
 مسیر حرکت دارای سنگ های بسیاری میباشد و بیشتر واقع نیاز به عبور از رودخانه وجود دارد، پس داشتن کفشی محکم بسیار ضروری است.  
@@ -52,7 +52,7 @@ rating: 4.5
 بهتر است وسایل اضافی خود را در این محل حمل نکنید، زیرا در بعضی مناطق ارتفاع آب تا 1.5 متر نیز میرسد.  
 
 <p align="center" >
-  <img src="/assets/img/02-tangeZaman/02.jpeg" alt="mhkarami97" />
+  <img src="/assets/img/02-tangeZaman/02.jpeg" alt="tange_zaman" />
 </p>
 
 در صورت نبود آفتاب مستقیم در این محل، هوا برای پیاده روی سرد میباشد و امکان سرماخوردگی وجود دارد.
@@ -60,7 +60,7 @@ rating: 4.5
 پس برای شب مانی داشتن (چادر، کیسه خواب، زیرانداز کیسه خواب، بادگیر) از واجبات است.  
 
 <p align="center" >
-  <img src="/assets/img/02-tangeZaman/03.jpeg" alt="mhkarami97" />
+  <img src="/assets/img/02-tangeZaman/03.jpeg" alt="tange_zaman" />
 </p>
 
 اگر از سمت تهران به این منطقه میرید و از گوگل مپ استفاده میکنید، نقشه در راه اصلی شما رو چند کیلومتر بیشتر میبره تا بتونید دور بزنید، پس به نقشه دقت کنید و سریعتر خارج شوید.  

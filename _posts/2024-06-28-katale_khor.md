@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "غار کتله‌خور"
-author: mhk
+author: mhkarami97
 categories: [غار]
 tags: [طبیعت, غار, زنجان]
 image: assets/img/99-katale_khor/24.jpg
@@ -24,80 +24,80 @@ rating: 4
 
 ## عکس‌ها
 
-![mhkarami97](/assets/img/99-katale_khor/01.jpg)  
+![katale_khor](/assets/img/99-katale_khor/01.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/02.jpg)  
+![katale_khor](/assets/img/99-katale_khor/02.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/03.jpg)  
+![katale_khor](/assets/img/99-katale_khor/03.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/04.jpg)  
+![katale_khor](/assets/img/99-katale_khor/04.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/05.jpg)  
+![katale_khor](/assets/img/99-katale_khor/05.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/06.jpg)  
+![katale_khor](/assets/img/99-katale_khor/06.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/07.jpg)  
+![katale_khor](/assets/img/99-katale_khor/07.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/08.jpg)  
+![katale_khor](/assets/img/99-katale_khor/08.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/09.jpg)  
+![katale_khor](/assets/img/99-katale_khor/09.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/10.jpg)  
+![katale_khor](/assets/img/99-katale_khor/10.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/11.jpg)  
+![katale_khor](/assets/img/99-katale_khor/11.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/12.jpg)  
+![katale_khor](/assets/img/99-katale_khor/12.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/13.jpg)  
+![katale_khor](/assets/img/99-katale_khor/13.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/14.jpg)  
+![katale_khor](/assets/img/99-katale_khor/14.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/15.jpg)  
+![katale_khor](/assets/img/99-katale_khor/15.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/16.jpg)  
+![katale_khor](/assets/img/99-katale_khor/16.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/17.jpg)  
+![katale_khor](/assets/img/99-katale_khor/17.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/18.jpg)  
+![katale_khor](/assets/img/99-katale_khor/18.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/19.jpg)  
+![katale_khor](/assets/img/99-katale_khor/19.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/20.jpg)  
+![katale_khor](/assets/img/99-katale_khor/20.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/21.jpg)  
+![katale_khor](/assets/img/99-katale_khor/21.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/22.jpg)  
+![katale_khor](/assets/img/99-katale_khor/22.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/23.jpg)  
+![katale_khor](/assets/img/99-katale_khor/23.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/24.jpg)  
+![katale_khor](/assets/img/99-katale_khor/24.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/25.jpg)  
+![katale_khor](/assets/img/99-katale_khor/25.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/26.jpg)  
+![katale_khor](/assets/img/99-katale_khor/26.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/27.jpg)  
+![katale_khor](/assets/img/99-katale_khor/27.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/28.jpg)  
+![katale_khor](/assets/img/99-katale_khor/28.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/29.jpg)  
+![katale_khor](/assets/img/99-katale_khor/29.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/30.jpg)  
+![katale_khor](/assets/img/99-katale_khor/30.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/31.jpg)  
+![katale_khor](/assets/img/99-katale_khor/31.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/32.jpg)  
+![katale_khor](/assets/img/99-katale_khor/32.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/33.jpg)  
+![katale_khor](/assets/img/99-katale_khor/33.jpg)  
 
 ### قمچقای
 
-![mhkarami97](/assets/img/99-katale_khor/34.jpg)  
+![katale_khor](/assets/img/99-katale_khor/34.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/35.jpg)  
+![katale_khor](/assets/img/99-katale_khor/35.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/36.jpg)  
+![katale_khor](/assets/img/99-katale_khor/36.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/37.jpg)  
+![katale_khor](/assets/img/99-katale_khor/37.jpg)  
 
-![mhkarami97](/assets/img/99-katale_khor/38.jpg)  
+![katale_khor](/assets/img/99-katale_khor/38.jpg)  

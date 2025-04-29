@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "شهرستانک"
-author: mhk
+author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, قلعه, رودخانه, البرز]
 image: assets/img/96-shahrestanak/11.jpg
@@ -37,40 +37,40 @@ rating: 4
 
 ## عکس‌ها
 
-![mhkarami97](/assets/img/96-shahrestanak/01.jpg)  
+![shahrestanak](/assets/img/96-shahrestanak/01.jpg)  
 
-![mhkarami97](/assets/img/96-shahrestanak/02.jpg)  
+![shahrestanak](/assets/img/96-shahrestanak/02.jpg)  
 
-![mhkarami97](/assets/img/96-shahrestanak/03.jpg)  
+![shahrestanak](/assets/img/96-shahrestanak/03.jpg)  
 
-![mhkarami97](/assets/img/96-shahrestanak/04.jpg)  
+![shahrestanak](/assets/img/96-shahrestanak/04.jpg)  
 
-![mhkarami97](/assets/img/96-shahrestanak/05.jpg)  
+![shahrestanak](/assets/img/96-shahrestanak/05.jpg)  
 
-![mhkarami97](/assets/img/96-shahrestanak/06.jpg)  
+![shahrestanak](/assets/img/96-shahrestanak/06.jpg)  
 
-![mhkarami97](/assets/img/96-shahrestanak/07.jpg)  
+![shahrestanak](/assets/img/96-shahrestanak/07.jpg)  
 
-![mhkarami97](/assets/img/96-shahrestanak/08.jpg)  
+![shahrestanak](/assets/img/96-shahrestanak/08.jpg)  
 
-![mhkarami97](/assets/img/96-shahrestanak/09.jpg)  
+![shahrestanak](/assets/img/96-shahrestanak/09.jpg)  
 
-![mhkarami97](/assets/img/96-shahrestanak/10.jpg)  
+![shahrestanak](/assets/img/96-shahrestanak/10.jpg)  
 
-![mhkarami97](/assets/img/96-shahrestanak/11.jpg)  
+![shahrestanak](/assets/img/96-shahrestanak/11.jpg)  
 
-![mhkarami97](/assets/img/96-shahrestanak/12.jpg)  
+![shahrestanak](/assets/img/96-shahrestanak/12.jpg)  
 
-![mhkarami97](/assets/img/96-shahrestanak/13.jpg)  
+![shahrestanak](/assets/img/96-shahrestanak/13.jpg)  
 
-![mhkarami97](/assets/img/96-shahrestanak/14.jpg)  
+![shahrestanak](/assets/img/96-shahrestanak/14.jpg)  
 
-![mhkarami97](/assets/img/96-shahrestanak/15.jpg)  
+![shahrestanak](/assets/img/96-shahrestanak/15.jpg)  
 
-![mhkarami97](/assets/img/96-shahrestanak/16.jpg)  
+![shahrestanak](/assets/img/96-shahrestanak/16.jpg)  
 
-![mhkarami97](/assets/img/96-shahrestanak/17.jpg)  
+![shahrestanak](/assets/img/96-shahrestanak/17.jpg)  
 
-![mhkarami97](/assets/img/96-shahrestanak/18.jpg)  
+![shahrestanak](/assets/img/96-shahrestanak/18.jpg)  
 
-![mhkarami97](/assets/img/96-shahrestanak/19.jpg)  
+![shahrestanak](/assets/img/96-shahrestanak/19.jpg)  

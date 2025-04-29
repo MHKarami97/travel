@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "آبشار کبودوال"
-author: mhk
+author: mhkarami97
 categories: [آبشار]
 tags: [جنگل, رودخانه, گلستان, آبشار]
 image: assets/img/115-kaboud/09.jpg
@@ -27,32 +27,32 @@ rating: 4
 
 ## عکس‌ها
 
-![mhkarami97](/assets/img/115-kaboud/01.jpg)  
+![kaboud_val](/assets/img/115-kaboud/01.jpg)  
   
-![mhkarami97](/assets/img/115-kaboud/02.jpg)  
+![kaboud_val](/assets/img/115-kaboud/02.jpg)  
   
-![mhkarami97](/assets/img/115-kaboud/03.jpg)  
+![kaboud_val](/assets/img/115-kaboud/03.jpg)  
   
-![mhkarami97](/assets/img/115-kaboud/04.jpg)  
+![kaboud_val](/assets/img/115-kaboud/04.jpg)  
   
-![mhkarami97](/assets/img/115-kaboud/05.jpg)  
+![kaboud_val](/assets/img/115-kaboud/05.jpg)  
   
-![mhkarami97](/assets/img/115-kaboud/06.jpg)  
+![kaboud_val](/assets/img/115-kaboud/06.jpg)  
   
-![mhkarami97](/assets/img/115-kaboud/07.jpg)  
+![kaboud_val](/assets/img/115-kaboud/07.jpg)  
   
-![mhkarami97](/assets/img/115-kaboud/08.jpg)  
+![kaboud_val](/assets/img/115-kaboud/08.jpg)  
   
-![mhkarami97](/assets/img/115-kaboud/09.jpg)  
+![kaboud_val](/assets/img/115-kaboud/09.jpg)  
   
-![mhkarami97](/assets/img/115-kaboud/10.jpg)  
+![kaboud_val](/assets/img/115-kaboud/10.jpg)  
   
-![mhkarami97](/assets/img/115-kaboud/11.jpg)  
+![kaboud_val](/assets/img/115-kaboud/11.jpg)  
   
-![mhkarami97](/assets/img/115-kaboud/12.jpg)  
+![kaboud_val](/assets/img/115-kaboud/12.jpg)  
   
-![mhkarami97](/assets/img/115-kaboud/13.jpg)  
+![kaboud_val](/assets/img/115-kaboud/13.jpg)  
   
-![mhkarami97](/assets/img/115-kaboud/14.jpg)  
+![kaboud_val](/assets/img/115-kaboud/14.jpg)  
   
-![mhkarami97](/assets/img/115-kaboud/15.jpg)  
+![kaboud_val](/assets/img/115-kaboud/15.jpg)  

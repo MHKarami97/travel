@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "آبشار مورود"
-author: mhk
+author: mhkarami97
 categories: [آبشار]
 tags: [آبشار, رودخانه, البرز]
 image: assets/img/88-mowrud_waterfall/14.jpg
@@ -27,30 +27,30 @@ rating: 3
 
 ## عکس‌ها
 
-![mhkarami97](/assets/img/88-mowrud_waterfall/01.jpg)  
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/01.jpg)  
 
-![mhkarami97](/assets/img/88-mowrud_waterfall/02.jpg)  
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/02.jpg)  
 
-![mhkarami97](/assets/img/88-mowrud_waterfall/03.jpg)  
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/03.jpg)  
 
-![mhkarami97](/assets/img/88-mowrud_waterfall/04.jpg)  
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/04.jpg)  
 
-![mhkarami97](/assets/img/88-mowrud_waterfall/05.jpg)  
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/05.jpg)  
 
-![mhkarami97](/assets/img/88-mowrud_waterfall/06.jpg)  
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/06.jpg)  
 
-![mhkarami97](/assets/img/88-mowrud_waterfall/07.jpg)  
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/07.jpg)  
 
-![mhkarami97](/assets/img/88-mowrud_waterfall/08.jpg)  
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/08.jpg)  
 
-![mhkarami97](/assets/img/88-mowrud_waterfall/09.jpg)  
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/09.jpg)  
 
-![mhkarami97](/assets/img/88-mowrud_waterfall/10.jpg)  
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/10.jpg)  
 
-![mhkarami97](/assets/img/88-mowrud_waterfall/11.jpg)  
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/11.jpg)  
 
-![mhkarami97](/assets/img/88-mowrud_waterfall/12.jpg)  
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/12.jpg)  
 
-![mhkarami97](/assets/img/88-mowrud_waterfall/13.jpg)  
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/13.jpg)  
 
-![mhkarami97](/assets/img/88-mowrud_waterfall/14.jpg)  
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/14.jpg)  

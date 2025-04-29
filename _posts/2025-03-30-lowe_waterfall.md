@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "آبشار لوه"
-author: mhk
+author: mhkarami97
 categories: [آبشار]
 tags: [آبشار, جنگل, گلستان, رودخانه]
 image: assets/img/122-lowe_waterfall/04.jpg
@@ -26,22 +26,22 @@ rating: 2
 
 ## عکس‌ها
 
-![mhkarami97](/assets/img/122-lowe_waterfall/01.jpg)  
+![lowe_waterfall](/assets/img/122-lowe_waterfall/01.jpg)  
   
-![mhkarami97](/assets/img/122-lowe_waterfall/02.jpg)  
+![lowe_waterfall](/assets/img/122-lowe_waterfall/02.jpg)  
   
-![mhkarami97](/assets/img/122-lowe_waterfall/03.jpg)  
+![lowe_waterfall](/assets/img/122-lowe_waterfall/03.jpg)  
   
-![mhkarami97](/assets/img/122-lowe_waterfall/04.jpg)  
+![lowe_waterfall](/assets/img/122-lowe_waterfall/04.jpg)  
   
-![mhkarami97](/assets/img/122-lowe_waterfall/05.jpg)  
+![lowe_waterfall](/assets/img/122-lowe_waterfall/05.jpg)  
   
-![mhkarami97](/assets/img/122-lowe_waterfall/06.jpg)  
+![lowe_waterfall](/assets/img/122-lowe_waterfall/06.jpg)  
   
-![mhkarami97](/assets/img/122-lowe_waterfall/07.jpg)  
+![lowe_waterfall](/assets/img/122-lowe_waterfall/07.jpg)  
   
-![mhkarami97](/assets/img/122-lowe_waterfall/08.jpg)  
+![lowe_waterfall](/assets/img/122-lowe_waterfall/08.jpg)  
   
-![mhkarami97](/assets/img/122-lowe_waterfall/09.jpg)  
+![lowe_waterfall](/assets/img/122-lowe_waterfall/09.jpg)  
   
-![mhkarami97](/assets/img/122-lowe_waterfall/10.jpg)  
+![lowe_waterfall](/assets/img/122-lowe_waterfall/10.jpg)  

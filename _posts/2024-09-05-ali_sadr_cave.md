@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "غار علیصدر"
-author: mhk
+author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, غار, همدان]
 image: assets/img/104-ali_sadr_cave/13.jpg
@@ -29,40 +29,40 @@ rating: 4
 
 ## عکس‌ها
 
-![mhkarami97](/assets/img/104-ali_sadr_cave/01.jpg)  
+![ali_sadr_cave](/assets/img/104-ali_sadr_cave/01.jpg)  
 
-![mhkarami97](/assets/img/104-ali_sadr_cave/02.jpg)  
+![ali_sadr_cave](/assets/img/104-ali_sadr_cave/02.jpg)  
 
 ### غار
 
-![mhkarami97](/assets/img/104-ali_sadr_cave/03.jpg)  
+![ali_sadr_cave](/assets/img/104-ali_sadr_cave/03.jpg)  
 
-![mhkarami97](/assets/img/104-ali_sadr_cave/04.jpg)  
+![ali_sadr_cave](/assets/img/104-ali_sadr_cave/04.jpg)  
 
-![mhkarami97](/assets/img/104-ali_sadr_cave/05.jpg)  
+![ali_sadr_cave](/assets/img/104-ali_sadr_cave/05.jpg)  
 
-![mhkarami97](/assets/img/104-ali_sadr_cave/06.jpg)  
+![ali_sadr_cave](/assets/img/104-ali_sadr_cave/06.jpg)  
 
-![mhkarami97](/assets/img/104-ali_sadr_cave/07.jpg)  
+![ali_sadr_cave](/assets/img/104-ali_sadr_cave/07.jpg)  
 
-![mhkarami97](/assets/img/104-ali_sadr_cave/08.jpg)  
+![ali_sadr_cave](/assets/img/104-ali_sadr_cave/08.jpg)  
 
-![mhkarami97](/assets/img/104-ali_sadr_cave/09.jpg)  
+![ali_sadr_cave](/assets/img/104-ali_sadr_cave/09.jpg)  
 
-![mhkarami97](/assets/img/104-ali_sadr_cave/10.jpg)  
+![ali_sadr_cave](/assets/img/104-ali_sadr_cave/10.jpg)  
 
-![mhkarami97](/assets/img/104-ali_sadr_cave/11.jpg)  
+![ali_sadr_cave](/assets/img/104-ali_sadr_cave/11.jpg)  
 
-![mhkarami97](/assets/img/104-ali_sadr_cave/12.jpg)  
+![ali_sadr_cave](/assets/img/104-ali_sadr_cave/12.jpg)  
 
-![mhkarami97](/assets/img/104-ali_sadr_cave/13.jpg)  
+![ali_sadr_cave](/assets/img/104-ali_sadr_cave/13.jpg)  
 
-![mhkarami97](/assets/img/104-ali_sadr_cave/14.jpg)  
+![ali_sadr_cave](/assets/img/104-ali_sadr_cave/14.jpg)  
 
-![mhkarami97](/assets/img/104-ali_sadr_cave/15.jpg)  
+![ali_sadr_cave](/assets/img/104-ali_sadr_cave/15.jpg)  
 
-![mhkarami97](/assets/img/104-ali_sadr_cave/16.jpg)  
+![ali_sadr_cave](/assets/img/104-ali_sadr_cave/16.jpg)  
 
-![mhkarami97](/assets/img/104-ali_sadr_cave/17.jpg)  
+![ali_sadr_cave](/assets/img/104-ali_sadr_cave/17.jpg)  
 
-![mhkarami97](/assets/img/104-ali_sadr_cave/18.jpg)  
+![ali_sadr_cave](/assets/img/104-ali_sadr_cave/18.jpg)  

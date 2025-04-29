@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "میدان اسبی"
-author: mhk
+author: mhkarami97
 categories: [شهر‌گردی]
 tags: [شهر‌گردی, البرز]
 image: assets/img/19-asbi_square/01.jpg
@@ -21,51 +21,51 @@ rating: 3
  
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/02.jpg" alt="mhkarami97" />
+  <img src="/assets/img/19-asbi_square/02.jpg" alt="asbi_square" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/03.jpg" alt="mhkarami97" />
+  <img src="/assets/img/19-asbi_square/03.jpg" alt="asbi_square" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/04.jpg" alt="mhkarami97" />
+  <img src="/assets/img/19-asbi_square/04.jpg" alt="asbi_square" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/05.jpg" alt="mhkarami97" />
+  <img src="/assets/img/19-asbi_square/05.jpg" alt="asbi_square" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/06.jpg" alt="mhkarami97" />
+  <img src="/assets/img/19-asbi_square/06.jpg" alt="asbi_square" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/07.jpg" alt="mhkarami97" />
+  <img src="/assets/img/19-asbi_square/07.jpg" alt="asbi_square" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/08.jpg" alt="mhkarami97" />
+  <img src="/assets/img/19-asbi_square/08.jpg" alt="asbi_square" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/09.jpg" alt="mhkarami97" />
+  <img src="/assets/img/19-asbi_square/09.jpg" alt="asbi_square" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/10.jpg" alt="mhkarami97" />
+  <img src="/assets/img/19-asbi_square/10.jpg" alt="asbi_square" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/11.jpg" alt="mhkarami97" />
+  <img src="/assets/img/19-asbi_square/11.jpg" alt="asbi_square" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/12.jpg" alt="mhkarami97" />
+  <img src="/assets/img/19-asbi_square/12.jpg" alt="asbi_square" />
 </p>
 
 <p align="center">
-  <img src="/assets/img/19-asbi_square/13.jpg" alt="mhkarami97" />
+  <img src="/assets/img/19-asbi_square/13.jpg" alt="asbi_square" />
 </p>
 
 ---

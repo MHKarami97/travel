@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "باغ گل‌ها"
-author: mhk
+author: mhkarami97
 categories: [شهر‌گردی]
 tags: [البرز, باغ, پارک]
 image: assets/img/83-flowers_garden/11.jpg
@@ -28,78 +28,78 @@ rating: 3.5
 [موقعیت](https://www.google.com/maps/place/Flowers+Garden/@35.7936099,50.9906694,14.77z/data=!4m15!1m8!3m7!1s0x3f8d9560e50ce2cd:0xfe8f3fce8ca67cd5!2sLaleh+Park,+Qalamestan,+Karaj,+Alborz+Province!3b1!8m2!3d35.7939933!4d50.9894286!16s%2Fg%2F11bvtkd_yl!3m5!1s0x3f8d955799127c9b:0x2941ab8227b7ae53!8m2!3d35.8003882!4d51.0029655!16s%2Fg%2F11cp5dfdgq)  
 
 ## عکس‌ها
-![mhkarami97](/assets/img/83-flowers_garden/01.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/01.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/02.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/02.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/03.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/03.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/04.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/04.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/05.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/05.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/06.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/06.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/07.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/07.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/08.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/08.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/09.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/09.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/10.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/10.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/11.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/11.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/12.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/12.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/13.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/13.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/14.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/14.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/15.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/15.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/16.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/16.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/17.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/17.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/18.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/18.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/19.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/19.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/20.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/20.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/21.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/21.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/22.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/22.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/23.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/23.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/24.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/24.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/25.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/25.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/26.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/26.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/27.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/27.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/28.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/28.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/29.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/29.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/30.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/30.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/31.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/31.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/32.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/32.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/33.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/33.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/34.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/34.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/35.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/35.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/36.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/36.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/37.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/37.jpg)  
 
-![mhkarami97](/assets/img/83-flowers_garden/38.jpg)  
+![flowers_garden](/assets/img/83-flowers_garden/38.jpg)  

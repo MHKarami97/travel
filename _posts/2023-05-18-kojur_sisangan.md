@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "کجور به سیسنگان"
-author: mhk
+author: mhkarami97
 categories: [جنگل]
 tags: [آبشار, جنگل, رودخانه, مازندران]
 image: assets/img/89-kojur_sisangan/76.jpg
@@ -46,200 +46,200 @@ rating: 5
 ## عکس‌ها
 
 ### کجور
-![mhkarami97](/assets/img/89-kojur_sisangan/01.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/01.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/02.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/02.jpg)  
 
 ### روستای بین
 
-![mhkarami97](/assets/img/89-kojur_sisangan/03.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/03.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/04.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/04.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/05.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/05.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/06.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/06.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/07.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/07.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/08.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/08.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/09.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/09.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/10.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/10.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/11.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/11.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/12.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/12.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/13.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/13.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/14.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/14.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/15.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/15.jpg)  
 
 ### شروع پیمایش
 
-![mhkarami97](/assets/img/89-kojur_sisangan/16.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/16.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/17.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/17.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/18.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/18.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/19.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/19.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/20.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/20.jpg)  
 
 ### معدن
 
-![mhkarami97](/assets/img/89-kojur_sisangan/21.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/21.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/22.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/22.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/23.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/23.jpg)  
 
 ### اولین عبور از رودخانه
 
-![mhkarami97](/assets/img/89-kojur_sisangan/24.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/24.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/25.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/25.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/26.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/26.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/27.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/27.jpg)  
 
 ### آبشار اول
 
-![mhkarami97](/assets/img/89-kojur_sisangan/28.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/28.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/29.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/29.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/30.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/30.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/31.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/31.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/32.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/32.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/33.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/33.jpg)  
 
 ### کلبه جنگلی و چشمه
 
-![mhkarami97](/assets/img/89-kojur_sisangan/34.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/34.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/35.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/35.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/36.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/36.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/37.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/37.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/38.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/38.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/39.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/39.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/40.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/40.jpg)  
 
 ### آبشار دوم
 
-![mhkarami97](/assets/img/89-kojur_sisangan/41.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/41.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/42.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/42.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/43.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/43.jpg)  
 
 ### محل کمپ
 
-![mhkarami97](/assets/img/89-kojur_sisangan/44.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/44.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/45.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/45.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/46.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/46.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/47.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/47.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/48.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/48.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/49.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/49.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/50.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/50.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/51.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/51.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/52.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/52.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/53.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/53.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/54.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/54.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/55.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/55.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/56.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/56.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/57.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/57.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/58.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/58.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/59.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/59.jpg)  
 
 ### آبشار سوم و چشمه آب‌تنی
 
-![mhkarami97](/assets/img/89-kojur_sisangan/60.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/60.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/61.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/61.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/62.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/62.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/63.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/63.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/64.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/64.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/65.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/65.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/66.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/66.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/67.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/67.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/68.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/68.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/69.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/69.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/70.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/70.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/71.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/71.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/72.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/72.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/73.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/73.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/74.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/74.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/75.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/75.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/76.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/76.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/77.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/77.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/78.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/78.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/79.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/79.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/80.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/80.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/81.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/81.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/82.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/82.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/83.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/83.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/84.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/84.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/85.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/85.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/86.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/86.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/87.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/87.jpg)  
 
 ### انتها مسیر
 
-![mhkarami97](/assets/img/89-kojur_sisangan/88.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/88.jpg)  
 
-![mhkarami97](/assets/img/89-kojur_sisangan/89.jpg)  
+![kojur_sisangan](/assets/img/89-kojur_sisangan/89.jpg)  
