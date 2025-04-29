@@ -62,11 +62,11 @@ giscus:
   theme: "light"
   crossorigin: "anonymous"  
   
-google_analytics: "G-DZM25ZLKRP"
+google_analytics: "G-2KGKGYQR60"
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-DZM25ZLKRP"
+    tracking_id: "G-2KGKGYQR60"
     anonymize_ip: false # default  
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
