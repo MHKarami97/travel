@@ -4,7 +4,7 @@ title: "سفرنامه"
 description: "سفرنامه"
 logo: 'assets/images/my.jpg'
 favicon: 'assets/images/favicon.png'
-baseurl: '/'
+baseurl: ''
 url: "https://travel.mhkarami97.ir"
 #google_analytics: ''
 #disqus: ''
